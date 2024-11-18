@@ -1,0 +1,15 @@
+==496402== Memcheck, a memory error detector
+==496402== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==496402== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==496402== Command: /mnt/c/Users/Cristina_Iordache/Downloads/sfl_checker/sfl
+==496402== Parent PID: 496401
+==496402== 
+==496402== 
+==496402== HEAP SUMMARY:
+==496402==     in use at exit: 0 bytes in 0 blocks
+==496402==   total heap usage: 68 allocs, 68 frees, 9,544 bytes allocated
+==496402== 
+==496402== All heap blocks were freed -- no leaks are possible
+==496402== 
+==496402== For lists of detected and suppressed errors, rerun with: -s
+==496402== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

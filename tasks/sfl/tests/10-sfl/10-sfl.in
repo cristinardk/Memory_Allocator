@@ -1,0 +1,9 @@
+INIT_HEAP 0xcea 3 128 0
+MALLOC 32
+WRITE 0xdea "Observ sisteme de operare" 27
+DUMP_MEMORY
+FREE 0xdea
+MALLOC 10
+WRITE 0xd6a "Nu observ" 27
+DUMP_MEMORY
+DESTROY_HEAP

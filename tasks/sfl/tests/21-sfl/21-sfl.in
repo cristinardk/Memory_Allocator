@@ -1,0 +1,452 @@
+INIT_HEAP 0xbbbb 7 1024 0
+MALLOC 8
+MALLOC 6
+MALLOC 7
+DUMP_MEMORY
+MALLOC 19
+DUMP_MEMORY
+MALLOC 1
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 389
+MALLOC 10
+MALLOC 52
+DUMP_MEMORY
+MALLOC 6
+DUMP_MEMORY
+MALLOC 4
+MALLOC 9
+MALLOC 123
+MALLOC 2
+MALLOC 8
+DUMP_MEMORY
+MALLOC 20
+MALLOC 5
+MALLOC 3
+DUMP_MEMORY
+MALLOC 14
+MALLOC 8
+DUMP_MEMORY
+MALLOC 12
+MALLOC 7
+MALLOC 14
+MALLOC 3
+MALLOC 6
+MALLOC 8
+MALLOC 1
+DUMP_MEMORY
+MALLOC 2
+DUMP_MEMORY
+MALLOC 33
+DUMP_MEMORY
+MALLOC 6
+MALLOC 8
+MALLOC 8
+DUMP_MEMORY
+MALLOC 2
+MALLOC 58
+DUMP_MEMORY
+MALLOC 11
+MALLOC 5
+DUMP_MEMORY
+MALLOC 8
+MALLOC 14
+MALLOC 16
+MALLOC 14
+MALLOC 14
+MALLOC 10
+DUMP_MEMORY
+MALLOC 6
+MALLOC 1
+DUMP_MEMORY
+MALLOC 123
+MALLOC 2
+DUMP_MEMORY
+MALLOC 5
+DUMP_MEMORY
+MALLOC 8
+MALLOC 10
+MALLOC 2
+MALLOC 50
+MALLOC 13
+MALLOC 3
+DUMP_MEMORY
+MALLOC 2
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 2
+MALLOC 11
+MALLOC 125
+MALLOC 12
+MALLOC 10
+MALLOC 6
+DUMP_MEMORY
+MALLOC 38
+MALLOC 5
+MALLOC 1
+MALLOC 6
+MALLOC 6
+MALLOC 2
+MALLOC 72
+MALLOC 7
+MALLOC 6
+MALLOC 8
+MALLOC 2
+MALLOC 11
+MALLOC 2
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 8
+MALLOC 6
+MALLOC 34
+MALLOC 16
+MALLOC 120
+MALLOC 1
+MALLOC 10
+DUMP_MEMORY
+MALLOC 6
+MALLOC 23
+MALLOC 3
+MALLOC 8
+MALLOC 104
+DUMP_MEMORY
+MALLOC 53
+MALLOC 5
+MALLOC 29
+MALLOC 56
+MALLOC 35
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 29
+MALLOC 3
+MALLOC 6
+DUMP_MEMORY
+MALLOC 12
+MALLOC 13
+MALLOC 59
+MALLOC 13
+DUMP_MEMORY
+MALLOC 5
+MALLOC 26
+MALLOC 8
+MALLOC 4
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 31
+MALLOC 24
+MALLOC 3
+MALLOC 63
+DUMP_MEMORY
+MALLOC 25
+MALLOC 9
+MALLOC 6
+MALLOC 1
+MALLOC 8
+MALLOC 13
+MALLOC 10
+MALLOC 3
+MALLOC 20
+MALLOC 104
+MALLOC 2
+MALLOC 3
+MALLOC 7
+MALLOC 5
+MALLOC 30
+MALLOC 5
+MALLOC 12
+MALLOC 13
+MALLOC 5
+MALLOC 1
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 8
+DUMP_MEMORY
+MALLOC 2
+MALLOC 7
+MALLOC 91
+DUMP_MEMORY
+MALLOC 2
+MALLOC 4
+MALLOC 6
+MALLOC 15
+MALLOC 15
+MALLOC 6
+MALLOC 10
+MALLOC 11
+MALLOC 11
+MALLOC 23
+MALLOC 24
+MALLOC 2
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 11
+MALLOC 80
+MALLOC 10
+MALLOC 115
+MALLOC 5
+DUMP_MEMORY
+MALLOC 6
+MALLOC 7
+MALLOC 7
+MALLOC 10
+MALLOC 7
+DUMP_MEMORY
+MALLOC 9
+MALLOC 27
+MALLOC 2
+DUMP_MEMORY
+MALLOC 7
+MALLOC 7
+MALLOC 15
+DUMP_MEMORY
+MALLOC 16
+DUMP_MEMORY
+MALLOC 6
+MALLOC 59
+MALLOC 1
+MALLOC 6
+MALLOC 8
+MALLOC 1
+MALLOC 37
+MALLOC 1
+MALLOC 5
+MALLOC 15
+DUMP_MEMORY
+MALLOC 8
+MALLOC 6
+MALLOC 5
+MALLOC 6
+MALLOC 2
+MALLOC 24
+MALLOC 13
+MALLOC 6
+MALLOC 9
+MALLOC 10
+MALLOC 7
+MALLOC 5
+MALLOC 3
+MALLOC 5
+DUMP_MEMORY
+MALLOC 17
+MALLOC 7
+MALLOC 2
+MALLOC 21
+DUMP_MEMORY
+MALLOC 3
+DUMP_MEMORY
+MALLOC 12
+DUMP_MEMORY
+MALLOC 16
+MALLOC 6
+MALLOC 3
+DUMP_MEMORY
+MALLOC 24
+DUMP_MEMORY
+MALLOC 8
+MALLOC 131
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 1
+DUMP_MEMORY
+WRITE 0xbc7b "Q:What's yellow, and equivalent to the Axiom of Choice?A:Zorn's Lemon." 67
+WRITE 0xbdd3 "You have a truly strong individuality." 35
+DUMP_MEMORY
+WRITE 0xbc7b "Don't feed the bats tonight." 20
+FREE 0xbc4b
+DUMP_MEMORY
+FREE 0xbbe3
+READ 0xbc7b 58
+READ 0xbdd3 25
+DUMP_MEMORY
+WRITE 0xc19b "Q:What did Tarzan say when he saw the elephants coming over the hill?A:"The elephants are coming over the hill."Q:What did he say when saw them coming over the hill wearingsunglasses?A:Nothing, for he didn't recognize them." 220
+MALLOC 26
+FREE 0xc00b
+READ 0xc19b 1
+DUMP_MEMORY
+FREE 0xbd9b
+FREE 0xc9d5
+WRITE 0xd3bb "Writing is turning one's worst moments into money.-- J.P. Donleavy" 249
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0xbe83
+READ 0xc19b 31
+WRITE 0xbc7b "Your boyfriend takes chocolate from strangers." 43
+MALLOC 5
+WRITE 0xc9bb "Q:What is green and lives in the ocean?A:Moby Pickle." 50
+WRITE 0xbc43 "Q:What's the difference between an Irish wedding and an Irish wake?A:One less drunk." 81
+DUMP_MEMORY
+FREE 0xbddb
+DUMP_MEMORY
+WRITE 0xd3bb "If you tell the truth you don't have to remember anything.-- Mark Twain" 251
+WRITE 0xbedb "Familiarity breeds contempt -- and children.-- Mark Twain" 54
+FREE 0xc83b
+FREE 0xbcbb
+MALLOC 29
+READ 0xbc7b 22
+FREE 0xbe73
+FREE 0xbf03
+MALLOC 56
+FREE 0xc1ab
+WRITE 0xbc7b "The mind is its own place, and in itselfCan make a Heav'n of Hell, a Hell of Heav'n.-- John Milton" 95
+MALLOC 9
+MALLOC 3
+WRITE 0xbd73 "The naked truth of it is, I have no shirt.-- William Shakespeare, "Love's Labour's Lost"" 85
+MALLOC 125
+FREE 0xcd3b
+READ 0xc9bb 9
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 133
+MALLOC 26
+MALLOC 7
+READ 0xbc7b 17
+READ 0xbd73 19
+MALLOC 24
+WRITE 0xbc7b "What I tell you three times is true.-- Lewis Carroll" 49
+WRITE 0xc49b "Be careful!  UGLY strikes 9 out of 10!" 35
+READ 0xbedb 8
+WRITE 0xbffb "Q:How many lawyers does it take to change a light bulb?A:One.  Only it's his light bulb when he's done." 100
+FREE 0xcebb
+READ 0xbd73 9
+WRITE 0xc0eb "You love your home and want it to be beautiful." 44
+DUMP_MEMORY
+WRITE 0xbc7b "Your talents will be recognized and suitably rewarded." 51
+READ 0xbc7b 49
+DUMP_MEMORY
+FREE 0xbe6b
+WRITE 0xd3bb "Domestic happiness and faithful friends." 297
+WRITE 0xbbc3 "You worry too much about your job.  Stop it.  You are not paid enough to worry." 76
+READ 0xbdd3 7
+READ 0xbc7b 33
+MALLOC 7
+WRITE 0xd3bb "Do not sleep in a eucalyptus tree tonight." 253
+READ 0xbffb 29
+MALLOC 13
+READ 0xbc7b 80
+READ 0xbbc3 51
+WRITE 0xbc7b "No live organism can continue for long to exist sanely under conditions ofabsolute reality; even larks and katydids are supposed, by some, to dream.Hill House, not sane, stood by itself against its hills, holding darknesswithin; it had stood so for eighty years and might stand for eighty more.Within, walls continued upright, bricks met neatly, floors were firm, anddoors were sensibly shut; silence lay steadily against the wood and stoneof Hill House, and whatever walked there, walked alone.-- Shirley Jackso" 509
+DUMP_MEMORY
+FREE 0xbffb
+READ 0xd3bb 123
+WRITE 0xbc7b "Bridge ahead.  Pay troll." 13
+MALLOC 27
+DUMP_MEMORY
+WRITE 0xbefb "Q:How does a hacker fix a function whichdoesn't work for all of the elements in its domain?A:He changes the domain." 112
+FREE 0xc21b
+FREE 0xbc9b
+READ 0xbf08 2
+WRITE 0xc23b "Don't worry.  Life's too long.-- Vincent Sardi, Jr." 48
+FREE 0xbce3
+FREE 0xbc03
+READ 0xc23b 36
+FREE 0xbef3
+DUMP_MEMORY
+READ 0xbca0 34
+FREE 0xbdb3
+DUMP_MEMORY
+FREE 0xbd93
+DUMP_MEMORY
+MALLOC 6
+WRITE 0xbc7b "Keep emotionally active.  Cater to your favorite neurosis." 55
+FREE 0xc25b
+DUMP_MEMORY
+MALLOC 24
+DUMP_MEMORY
+FREE 0xcc3b
+READ 0xc9bb 4
+FREE 0xbe2b
+FREE 0xbdbb
+MALLOC 7
+FREE 0xbde3
+WRITE 0xbbf3 "April 1This is the day upon which we are reminded of what we are on the other threehundred and sixty-four.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 148
+READ 0xbc7b 7
+WRITE 0xbc7b "Beware the one behind you." 9
+FREE 0xbc56
+WRITE 0xd3bb "Q:What do you have when you have a lawyer buried up to his neck in sand?A:Not enough sand." 208
+FREE 0xc0eb
+WRITE 0xc1db "Q:What do you call a principal female opera singer whose high Cis lower than those of other principal female opera singers?A:A deep C diva." 10
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0xcfbb ""You have heard me speak of Professor Moriarty?""The famous scientific criminal, as famous among crooks as --""My blushes, Watson," Holmes murmured, in a deprecating voice."I was about to say 'as he is unknown to the public.'"-- A. Conan Doyle, "The Valley of Fear"" 117
+WRITE 0xced3 "You will be held hostage by a radical group." 6
+WRITE 0xd3bb "Q:How many elephants can you fit in a VW Bug?A:Four.  Two in the front, two in the back.Q:How can you tell if an elephant is in your refrigerator?A:There's a footprint in the mayo.Q:How can you tell if two elephants are in your refrigerator?A:There's two footprints in the mayo.Q:How can you tell if three elephants are in your refrigerator?A:The door won't shut.Q:How can you tell if four elephants are in your refrigerator?A:There's a VW Bug in your driveway." 362
+MALLOC 5
+READ 0xbf08 4
+MALLOC 30
+WRITE 0xd3bb "Tonight you will pay the wages of sin; Don't forget to leave a tip." 276
+WRITE 0xc9d5 "Tomorrow, you can be anywhere." 26
+MALLOC 123
+DUMP_MEMORY
+WRITE 0xd436 "Even the clearest and most perfect circumstantial evidence is likely to be atfault, after all, and therefore ought to be received with great caution.  Takethe case of any pencil, sharpened by any woman; if you have witnesses, you willfind she did it with a knife; but if you take simply the aspect of the pencil,you will say that she did it with her teeth.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 74
+DUMP_MEMORY
+WRITE 0xd3bb "A horse!  A horse!  My kingdom for a horse!-- Wm. Shakespeare, "Richard III"" 238
+FREE 0xca96
+MALLOC 14
+DUMP_MEMORY
+WRITE 0xbfcb "Q:What do you call a blind, deaf-mute, quadraplegic Virginian?A:Trustworthy." 3
+DUMP_MEMORY
+FREE 0xc7fb
+DUMP_MEMORY
+READ 0xbdc1 3
+MALLOC 13
+FREE 0xbc63
+FREE 0xbe03
+DUMP_MEMORY
+FREE 0xc4db
+FREE 0xc918
+FREE 0xbc13
+DUMP_MEMORY
+READ 0xbde6 7
+WRITE 0xbc7b "Whoever has lived long enough to find out what life is, knows how deep a debtof gratitude we owe to Adam, the first great benefactor of our race.  Hebrought death into the world.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 23
+MALLOC 72
+WRITE 0xd3bb "You will wish you hadn't." 14
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0xc0fb "You're working under a slight handicap.  You happen to be human." 6
+WRITE 0xbc7b "Knucklehead:"Knock, knock"Pee Wee:"Who's there?"Knucklehead:"Little ol' lady."Pee Wee:"Liddle ol' lady who?"Knucklehead:"I didn't know you could yodel"" 8
+FREE 0xc55b
+MALLOC 115
+READ 0xbc7b 16
+WRITE 0xbc7b "Conscience doth make cowards of us all.-- Shakespeare" 22
+READ 0xc19b 12
+FREE 0xbd2b
+DUMP_MEMORY
+MALLOC 37
+WRITE 0xbbd3 "Questionable day.Ask somebody something." 2
+DUMP_MEMORY
+FREE 0xbca8
+READ 0xc19b 14
+READ 0xbc7b 4
+FREE 0xc15b
+FREE 0xcbbb
+DUMP_MEMORY
+WRITE 0xbbc3 "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #13A:Doc, Happy, Bashful, Dopey, Sneezy, Sleepy, & GrumpyQ:Who were the Democratic presidential candidates?" 1
+READ 0xd3bb 80
+MALLOC 31
+READ 0xbc59 40
+DUMP_MEMORY
+FREE 0xc57b
+READ 0xbdb4 5
+FREE 0xc97b
+MALLOC 6
+MALLOC 29
+FREE 0xbe4b
+DUMP_MEMORY
+WRITE 0xbbfb "Bridge ahead.  Pay troll." 2
+FREE 0xbd03
+MALLOC 59
+READ 0xd3bb 291
+MALLOC 131
+WRITE 0xd3bb "You will reach the highest possible point in your business or profession." 298
+DUMP_MEMORY
+FREE 0xbceb
+READ 0xbc7b 9
+READ 0xbc7b 25
+FREE 0xbc83
+WRITE 0xbe0b "Let us endeavor so to live that when we come to die even the undertaker will besorry.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 5
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+DESTROY_HEAP

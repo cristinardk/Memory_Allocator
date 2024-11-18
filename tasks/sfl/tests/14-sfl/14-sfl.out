@@ -1,0 +1,29 @@
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 16 bytes
+Total free memory: 368 bytes
+Free blocks: 26
+Number of allocated blocks: 2
+Number of malloc calls: 3
+Number of fragmentations: 0
+Number of free calls: 1
+Blocks with 8 bytes - 14 free block(s) : 0x9 0x19 0x21 0x29 0x31 0x39 0x41 0x49 0x51 0x59 0x61 0x69 0x71 0x79
+Blocks with 16 bytes - 8 free block(s) : 0x81 0x91 0xa1 0xb1 0xc1 0xd1 0xe1 0xf1
+Blocks with 32 bytes - 4 free block(s) : 0x101 0x121 0x141 0x161
+Allocated blocks : (0x1 - 8) (0x11 - 8)
+-----DUMP-----
+Segmentation fault (core dumped)
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 16 bytes
+Total free memory: 368 bytes
+Free blocks: 26
+Number of allocated blocks: 2
+Number of malloc calls: 3
+Number of fragmentations: 0
+Number of free calls: 1
+Blocks with 8 bytes - 14 free block(s) : 0x9 0x19 0x21 0x29 0x31 0x39 0x41 0x49 0x51 0x59 0x61 0x69 0x71 0x79
+Blocks with 16 bytes - 8 free block(s) : 0x81 0x91 0xa1 0xb1 0xc1 0xd1 0xe1 0xf1
+Blocks with 32 bytes - 4 free block(s) : 0x101 0x121 0x141 0x161
+Allocated blocks : (0x1 - 8) (0x11 - 8)
+-----DUMP-----

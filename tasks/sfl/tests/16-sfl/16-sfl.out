@@ -1,0 +1,29 @@
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 32 bytes
+Total free memory: 352 bytes
+Free blocks: 27
+Number of allocated blocks: 1
+Number of malloc calls: 1
+Number of fragmentations: 0
+Number of free calls: 0
+Blocks with 8 bytes - 16 free block(s) : 0xcea 0xcf2 0xcfa 0xd02 0xd0a 0xd12 0xd1a 0xd22 0xd2a 0xd32 0xd3a 0xd42 0xd4a 0xd52 0xd5a 0xd62
+Blocks with 16 bytes - 8 free block(s) : 0xd6a 0xd7a 0xd8a 0xd9a 0xdaa 0xdba 0xdca 0xdda
+Blocks with 32 bytes - 3 free block(s) : 0xe0a 0xe2a 0xe4a
+Allocated blocks : (0xdea - 32)
+-----DUMP-----
+Nu observsteme de operare
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 32 bytes
+Total free memory: 352 bytes
+Free blocks: 27
+Number of allocated blocks: 1
+Number of malloc calls: 1
+Number of fragmentations: 0
+Number of free calls: 0
+Blocks with 8 bytes - 16 free block(s) : 0xcea 0xcf2 0xcfa 0xd02 0xd0a 0xd12 0xd1a 0xd22 0xd2a 0xd32 0xd3a 0xd42 0xd4a 0xd52 0xd5a 0xd62
+Blocks with 16 bytes - 8 free block(s) : 0xd6a 0xd7a 0xd8a 0xd9a 0xdaa 0xdba 0xdca 0xdda
+Blocks with 32 bytes - 3 free block(s) : 0xe0a 0xe2a 0xe4a
+Allocated blocks : (0xdea - 32)
+-----DUMP-----

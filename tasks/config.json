@@ -1,0 +1,37 @@
+{
+    "name": "Segregated Free Lists",
+    "deps": [
+        "gcc",
+        "python3"
+    ],
+    "tasks": [
+        {
+            "name": "sfl",
+            "points": 100,
+            "tests": 35,
+            "timeout": 5,
+            "stdin": true,
+            "stdout": true,
+            "valgrind": true,
+            "points_distribution": {
+                "0" : 2,
+                "1" : 2,
+                "2" : 2,
+                "3" : 2,
+                "4" : 2,
+                "5" : 2,
+                "6" : 2,
+                "7" : 2,
+                "8" : 2,
+                "9" : 2,
+                "30": 2,
+                "31": 4,
+                "32": 4,
+                "33": 4,
+                "34": 4
+            }
+        }
+    ],
+    "penalty_readme": 10,
+    "coding_style": 10
+}

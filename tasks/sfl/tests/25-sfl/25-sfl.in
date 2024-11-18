@@ -1,0 +1,2456 @@
+INIT_HEAP 0x10000 12 32768 0
+MALLOC 8
+DUMP_MEMORY
+MALLOC 71
+MALLOC 230
+DUMP_MEMORY
+MALLOC 8
+MALLOC 88
+MALLOC 1
+MALLOC 16
+DUMP_MEMORY
+MALLOC 83
+MALLOC 758
+MALLOC 16
+MALLOC 5
+MALLOC 7
+MALLOC 51
+MALLOC 198
+MALLOC 1
+MALLOC 77
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 114
+MALLOC 4
+DUMP_MEMORY
+MALLOC 3
+MALLOC 75
+MALLOC 112
+MALLOC 148
+MALLOC 25
+MALLOC 572
+MALLOC 76
+MALLOC 4
+MALLOC 312
+MALLOC 55
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 512
+MALLOC 14
+DUMP_MEMORY
+MALLOC 718
+DUMP_MEMORY
+MALLOC 2
+MALLOC 31
+MALLOC 12
+MALLOC 24
+MALLOC 11
+MALLOC 34
+MALLOC 298
+MALLOC 116
+MALLOC 417
+MALLOC 56
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 25
+MALLOC 16
+MALLOC 13
+MALLOC 9
+MALLOC 26
+MALLOC 10
+DUMP_MEMORY
+MALLOC 87
+DUMP_MEMORY
+MALLOC 26
+MALLOC 29
+MALLOC 13
+MALLOC 67
+MALLOC 156
+MALLOC 313
+MALLOC 612
+MALLOC 169
+MALLOC 324
+MALLOC 91
+MALLOC 3
+DUMP_MEMORY
+MALLOC 3
+MALLOC 65
+DUMP_MEMORY
+MALLOC 8
+DUMP_MEMORY
+MALLOC 11
+MALLOC 217
+MALLOC 317
+MALLOC 21
+MALLOC 1
+DUMP_MEMORY
+MALLOC 122
+MALLOC 167
+MALLOC 656
+DUMP_MEMORY
+MALLOC 12
+MALLOC 42
+DUMP_MEMORY
+MALLOC 246
+DUMP_MEMORY
+MALLOC 478
+MALLOC 72
+MALLOC 188
+MALLOC 11
+MALLOC 51
+MALLOC 104
+DUMP_MEMORY
+MALLOC 14
+DUMP_MEMORY
+MALLOC 93
+MALLOC 79
+DUMP_MEMORY
+MALLOC 4
+DUMP_MEMORY
+MALLOC 97
+MALLOC 9
+MALLOC 411
+MALLOC 68
+MALLOC 3
+MALLOC 9
+MALLOC 3
+MALLOC 3
+DUMP_MEMORY
+MALLOC 6
+MALLOC 11
+DUMP_MEMORY
+MALLOC 4
+DUMP_MEMORY
+MALLOC 137
+MALLOC 142
+MALLOC 60
+MALLOC 3
+MALLOC 42
+MALLOC 19
+MALLOC 4
+DUMP_MEMORY
+MALLOC 7
+MALLOC 102
+MALLOC 10
+MALLOC 7
+MALLOC 153
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 14
+MALLOC 108
+MALLOC 733
+MALLOC 3
+MALLOC 193
+MALLOC 63
+MALLOC 321
+DUMP_MEMORY
+MALLOC 228
+MALLOC 1
+DUMP_MEMORY
+MALLOC 6
+MALLOC 77
+MALLOC 35
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 16
+MALLOC 30
+DUMP_MEMORY
+MALLOC 122
+MALLOC 7
+MALLOC 56
+MALLOC 55
+MALLOC 148
+MALLOC 451
+MALLOC 23
+MALLOC 373
+MALLOC 57
+MALLOC 5
+DUMP_MEMORY
+MALLOC 2
+MALLOC 80
+MALLOC 7
+MALLOC 487
+DUMP_MEMORY
+MALLOC 16
+MALLOC 1
+MALLOC 275
+DUMP_MEMORY
+MALLOC 10
+MALLOC 196
+MALLOC 13
+MALLOC 3
+MALLOC 657
+MALLOC 73
+MALLOC 907
+MALLOC 9
+MALLOC 12
+MALLOC 15
+MALLOC 309
+MALLOC 28
+MALLOC 105
+MALLOC 5
+MALLOC 6
+MALLOC 80
+MALLOC 430
+MALLOC 97
+DUMP_MEMORY
+MALLOC 75
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 10
+MALLOC 4
+MALLOC 133
+MALLOC 26
+MALLOC 13
+MALLOC 109
+DUMP_MEMORY
+MALLOC 23
+DUMP_MEMORY
+MALLOC 490
+MALLOC 85
+MALLOC 30
+DUMP_MEMORY
+MALLOC 14
+MALLOC 177
+DUMP_MEMORY
+MALLOC 436
+MALLOC 1
+MALLOC 24
+MALLOC 75
+DUMP_MEMORY
+MALLOC 8
+DUMP_MEMORY
+MALLOC 6
+MALLOC 42
+MALLOC 25
+DUMP_MEMORY
+MALLOC 43
+MALLOC 10
+MALLOC 6
+DUMP_MEMORY
+MALLOC 31
+MALLOC 36
+DUMP_MEMORY
+MALLOC 93
+MALLOC 364
+DUMP_MEMORY
+MALLOC 199
+MALLOC 2
+MALLOC 8
+MALLOC 749
+MALLOC 13
+MALLOC 184
+MALLOC 5
+MALLOC 13
+MALLOC 16
+MALLOC 195
+MALLOC 120
+MALLOC 12
+MALLOC 147
+DUMP_MEMORY
+MALLOC 3
+MALLOC 14
+MALLOC 544
+MALLOC 214
+MALLOC 240
+MALLOC 48
+MALLOC 22
+MALLOC 68
+MALLOC 452
+MALLOC 86
+MALLOC 139
+MALLOC 481
+MALLOC 122
+MALLOC 82
+MALLOC 99
+DUMP_MEMORY
+MALLOC 5
+DUMP_MEMORY
+MALLOC 291
+MALLOC 45
+MALLOC 16
+MALLOC 607
+MALLOC 117
+MALLOC 1
+DUMP_MEMORY
+MALLOC 200
+MALLOC 54
+MALLOC 477
+MALLOC 19
+MALLOC 3
+MALLOC 2
+MALLOC 61
+MALLOC 1
+MALLOC 3
+MALLOC 7
+MALLOC 364
+MALLOC 125
+MALLOC 22
+MALLOC 5
+MALLOC 6
+MALLOC 25
+DUMP_MEMORY
+MALLOC 191
+MALLOC 3
+MALLOC 496
+MALLOC 53
+MALLOC 182
+MALLOC 13
+MALLOC 22
+DUMP_MEMORY
+MALLOC 437
+MALLOC 108
+DUMP_MEMORY
+MALLOC 32
+MALLOC 86
+MALLOC 6
+MALLOC 14
+MALLOC 20
+DUMP_MEMORY
+MALLOC 328
+MALLOC 368
+MALLOC 31
+MALLOC 12
+MALLOC 2
+DUMP_MEMORY
+MALLOC 76
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 13
+MALLOC 319
+MALLOC 10
+DUMP_MEMORY
+MALLOC 7
+MALLOC 86
+DUMP_MEMORY
+MALLOC 6
+MALLOC 203
+DUMP_MEMORY
+MALLOC 11
+MALLOC 735
+MALLOC 34
+MALLOC 2
+MALLOC 6
+MALLOC 28
+MALLOC 112
+MALLOC 60
+MALLOC 314
+MALLOC 20
+MALLOC 12
+MALLOC 306
+MALLOC 6
+DUMP_MEMORY
+MALLOC 4
+MALLOC 28
+MALLOC 289
+MALLOC 712
+MALLOC 457
+DUMP_MEMORY
+MALLOC 7
+MALLOC 400
+MALLOC 5
+MALLOC 847
+MALLOC 1290
+MALLOC 330
+MALLOC 53
+MALLOC 375
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 200
+MALLOC 9
+DUMP_MEMORY
+MALLOC 359
+MALLOC 15
+MALLOC 12
+MALLOC 9
+MALLOC 295
+MALLOC 48
+DUMP_MEMORY
+MALLOC 5
+DUMP_MEMORY
+MALLOC 12
+MALLOC 13
+MALLOC 89
+DUMP_MEMORY
+MALLOC 3
+DUMP_MEMORY
+MALLOC 226
+MALLOC 127
+MALLOC 480
+MALLOC 36
+DUMP_MEMORY
+MALLOC 12
+MALLOC 11
+MALLOC 2
+MALLOC 26
+MALLOC 236
+MALLOC 5
+MALLOC 7
+MALLOC 3
+MALLOC 2
+DUMP_MEMORY
+MALLOC 24
+DUMP_MEMORY
+MALLOC 144
+MALLOC 187
+MALLOC 122
+MALLOC 4
+DUMP_MEMORY
+MALLOC 12
+MALLOC 936
+MALLOC 28
+MALLOC 22
+MALLOC 3
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 1391
+MALLOC 101
+MALLOC 957
+MALLOC 4
+MALLOC 27
+MALLOC 112
+MALLOC 6
+MALLOC 2
+MALLOC 400
+MALLOC 20
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 368
+MALLOC 94
+MALLOC 92
+MALLOC 489
+MALLOC 121
+MALLOC 4
+MALLOC 5
+DUMP_MEMORY
+MALLOC 286
+MALLOC 2
+DUMP_MEMORY
+MALLOC 383
+MALLOC 3
+MALLOC 16
+MALLOC 14
+MALLOC 316
+MALLOC 129
+MALLOC 10
+MALLOC 220
+MALLOC 5
+MALLOC 868
+MALLOC 279
+MALLOC 726
+MALLOC 7
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 23
+MALLOC 123
+MALLOC 37
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 27
+MALLOC 6
+MALLOC 31
+DUMP_MEMORY
+MALLOC 10
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "Ships are safe in harbor, but they were never meant to stay there." 15
+READ 0x40400 15
+WRITE 0x50000 "A tall, dark stranger will have more fun than you." 1234
+MALLOC 196
+WRITE 0x20400 "You will be awarded a medal for disregarding safety in saving someone." 67
+WRITE 0x31880 "Delay not, Caesar.  Read it instantly.-- Shakespeare, "Julius Caesar" 3,1Here is a letter, read it at your leisure.-- Shakespeare, "Merchant of Venice" 5,1[Quoted in "VMS Internals and Data Structures", V4.4, when referring to I/O system services.]" 245
+READ 0x31880 37
+FREE 0x182e0
+WRITE 0x40400 "Cold hands, no gloves." 761
+FREE 0x42400
+FREE 0x4a800
+DUMP_MEMORY
+READ 0x40400 170
+DUMP_MEMORY
+FREE 0x30d80
+MALLOC 42
+WRITE 0x50000 "You recoil from the crude; you tend naturally toward the exquisite." 209
+WRITE 0x50000 "So you're back... about time..." 478
+MALLOC 49
+FREE 0x101e8
+MALLOC 191
+WRITE 0x50000 "Something's rotten in the state of Denmark.-- Shakespeare" 1275
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 6
+DUMP_MEMORY
+MALLOC 69
+WRITE 0x20060 "Chicken Little was right." 21
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 25
+DUMP_MEMORY
+READ 0x50000 223
+DUMP_MEMORY
+READ 0x50000 16
+MALLOC 144
+MALLOC 233
+WRITE 0x30000 "You will be misunderstood by everyone." 70
+FREE 0x30980
+DUMP_MEMORY
+WRITE 0x50000 "Your goose is cooked.(Your current chick is burned up too!)" 24
+WRITE 0x50000 "Write yourself a threatening letter and pen a defiant reply." 1218
+MALLOC 430
+WRITE 0x40400 "Knock, knock!Who's there?Sam and Janet.Sam and Janet who?Sam and Janet Evening..." 869
+FREE 0x20080
+DUMP_MEMORY
+WRITE 0x18340 "You can rent this space for only $5 a week." 40
+FREE 0x43200
+MALLOC 148
+DUMP_MEMORY
+MALLOC 109
+READ 0x50000 6
+DUMP_MEMORY
+FREE 0x38a00
+READ 0x50000 42
+READ 0x20060 3
+MALLOC 139
+WRITE 0x30a00 "I got a hint of things to come when I overheard my boss lamenting, 'Thebooks are done and we still don't have an author! I must sign someonetoday!-- Tamim Ansary, "Edutopia Magazine, Issue 2, November 2004"   on the topic of school textbooks" 238
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 25
+READ 0x50000 23
+DUMP_MEMORY
+READ 0x50000 8
+FREE 0x45400
+MALLOC 156
+FREE 0x18080
+DUMP_MEMORY
+READ 0x40400 629
+DUMP_MEMORY
+FREE 0x42600
+READ 0x40400 3
+READ 0x50000 810
+FREE 0x31900
+WRITE 0x50000 "It is often the case that the man who can't tell a lie thinks he is the bestjudge of one.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 669
+MALLOC 75
+MALLOC 45
+READ 0x50000 217
+READ 0x50000 1170
+DUMP_MEMORY
+MALLOC 137
+READ 0x50000 1038
+MALLOC 191
+READ 0x50000 397
+FREE 0x43600
+FREE 0x10238
+READ 0x30000 67
+DUMP_MEMORY
+READ 0x20400 23
+WRITE 0x30400 "You shall be rewarded for a dastardly deed." 24
+WRITE 0x50000 "Caution: Keep out of reach of children." 994
+READ 0x50000 421
+READ 0x30000 44
+READ 0x40400 753
+READ 0x20060 19
+MALLOC 321
+WRITE 0x40400 "You'll wish that you had done some of the hard things when they were easierto do." 585
+MALLOC 56
+FREE 0x101b8
+READ 0x50000 770
+READ 0x40400 333
+DUMP_MEMORY
+WRITE 0x10230 "He that is giddy thinks the world turns round.-- William Shakespeare, "The Taming of the Shrew"" 92
+FREE 0x18070
+DUMP_MEMORY
+READ 0x50000 165
+FREE 0x28080
+FREE 0x10120
+READ 0x31970 2
+FREE 0x10248
+FREE 0x180e0
+FREE 0x18110
+WRITE 0x48c00 "Don't worry.  Life's too long.-- Vincent Sardi, Jr." 59
+DUMP_MEMORY
+MALLOC 100
+DUMP_MEMORY
+READ 0x20400 29
+FREE 0x203c0
+FREE 0x30380
+READ 0x31970 2
+DUMP_MEMORY
+FREE 0x18310
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x41000
+FREE 0x4ac00
+MALLOC 144
+MALLOC 544
+READ 0x40400 554
+MALLOC 88
+WRITE 0x50000 "Your supervisor is thinking about you." 311
+WRITE 0x50000 "Q:What's tiny and yellow and very, very, dangerous?A:A canary with the super-user password." 844
+FREE 0x181f0
+WRITE 0x40400 "Good news from afar can bring you a welcome visitor." 747
+FREE 0x39100
+DUMP_MEMORY
+MALLOC 7
+READ 0x20060 7
+FREE 0x30c80
+WRITE 0x50000 "Your boss is a few sandwiches short of a picnic." 930
+MALLOC 193
+FREE 0x202a0
+FREE 0x281c0
+WRITE 0x40400 "It is so very hard to be anon-your-own-take-care-of-yourself-because-there-is-no-one-else-to-do-it-for-yougrown-up." 891
+DUMP_MEMORY
+FREE 0x10078
+MALLOC 52
+READ 0x40400 1
+DUMP_MEMORY
+MALLOC 203
+WRITE 0x10090 "Well, anyway, I was reading this James Bond book, and right away I realizedthat like most books, it had too many words.  The plot was the same one thatall James Bond books have: An evil person tries to blow up the world, butJames Bond kills him and his henchmen and makes love to several attractivewomen.  There, that's it: 24 words.  But the guy who wrote the book took*thousands* of words to say it.Or consider "The Brothers Karamazov", by the famous Russian alcoholicFyodor Dostoyevsky.  It's about these two " 509
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "Your ignorance cramps my conversation." 465
+FREE 0x39600
+MALLOC 217
+DUMP_MEMORY
+FREE 0x20280
+DUMP_MEMORY
+WRITE 0x50000 "A few hours grace before the madness begins again." 461
+READ 0x1024d 55
+DUMP_MEMORY
+READ 0x50000 624
+FREE 0x182d0
+FREE 0x20060
+DUMP_MEMORY
+READ 0x50000 127
+READ 0x50000 20
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x50000 "Q:What does a WASP Mom make for dinner?A:A crisp salad, a hearty soup, a lovely entree, followed bya delicious dessert." 443
+FREE 0x10218
+MALLOC 103
+DUMP_MEMORY
+MALLOC 101
+FREE 0x10150
+WRITE 0x50000 "In the space of one hundred and seventy-six years the Mississippi hasshortened itself two hundred and forty-two miles.  Therefore ... in the OldSilurian Period the Mississippi River was upward of one million three hundredthousand miles long ... seven hundred and forty-two years from now theMississippi will be only a mile and three-quarters long.  ... There issomething fascinating about science.  One gets such wholesome returns ofconjecture out of such a trifling investment of fact.-- Mark Twain" 677
+FREE 0x10190
+FREE 0x30180
+MALLOC 169
+FREE 0x182f0
+WRITE 0x50000 ""Elves and Dragons!" I says to him.  "Cabbages and potatoes are betterfor you and me."-- J. R. R. Tolkien" 291
+DUMP_MEMORY
+MALLOC 13
+READ 0x30000 33
+DUMP_MEMORY
+READ 0x40400 480
+FREE 0x18360
+MALLOC 266
+FREE 0x203e0
+FREE 0x48400
+MALLOC 69
+READ 0x50000 637
+WRITE 0x31380 "The naked truth of it is, I have no shirt.-- William Shakespeare, "Love's Labour's Lost"" 85
+FREE 0x10170
+READ 0x50000 35
+MALLOC 19
+WRITE 0x50000 "At once it struck me what quality went to form a man of achievement,especially in literature, and which Shakespeare possessed so enormously-- I mean negative capability, that is, when a man is capable of beingin uncertainties, mysteries, doubts, without any irritable reachingafter fact and reason.-- John Keats" 1287
+DUMP_MEMORY
+READ 0x10194 12
+MALLOC 214
+MALLOC 119
+FREE 0x10220
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 368
+WRITE 0x50000 "Q:What is orange and goes "click, click?"A:A ball point carrot." 580
+READ 0x50000 596
+MALLOC 22
+MALLOC 60
+DUMP_MEMORY
+FREE 0x20100
+READ 0x10194 82
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x50000 "Snow Day -- stay home." 165
+WRITE 0x50000 "You may be recognized soon.  Hide." 445
+READ 0x40400 198
+DUMP_MEMORY
+WRITE 0x50000 "When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 485
+MALLOC 45
+READ 0x50000 239
+READ 0x50000 717
+MALLOC 148
+FREE 0x10188
+FREE 0x20400
+MALLOC 46
+DUMP_MEMORY
+FREE 0x181c0
+MALLOC 191
+DUMP_MEMORY
+READ 0x50000 377
+FREE 0x38600
+FREE 0x10040
+READ 0x18340 25
+READ 0x50000 155
+MALLOC 40
+MALLOC 56
+DUMP_MEMORY
+MALLOC 76
+WRITE 0x45200 "Just because the message may never be received does not mean it isnot worth sending." 367
+DUMP_MEMORY
+READ 0x30400 3
+MALLOC 291
+FREE 0x46400
+FREE 0x31680
+FREE 0x101a8
+READ 0x50000 5
+FREE 0x28240
+WRITE 0x40400 "You are the only person to ever get this message." 204
+WRITE 0x40400 "Executive ability is prominent in your make-up." 484
+READ 0x40400 217
+WRITE 0x40400 "Q:How many DEC repairman does it take to fix a flat?A:Five; four to hold the car up and one to swap tires.Q:How long does it take?A:It's indeterminate.It will depend upon how many flats they've brought with them.Q:What happens if you've got TWO flats?A:They replace your generator." 240
+MALLOC 76
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 289
+WRITE 0x50000 "At once it struck me what quality went to form a man of achievement,especially in literature, and which Shakespeare possessed so enormously-- I mean negative capability, that is, when a man is capable of beingin uncertainties, mysteries, doubts, without any irritable reachingafter fact and reason.-- John Keats" 650
+WRITE 0x50000 "You will be awarded some great honor." 165
+MALLOC 68
+MALLOC 23
+MALLOC 108
+DUMP_MEMORY
+WRITE 0x50000 "Q:Why do firemen wear red suspenders?A:To conform with departmental regulations concerning uniform dress." 806
+WRITE 0x40a00 "The secret source of humor is not joy but sorrow; there is no humor in Heaven.-- Mark Twain" 145
+MALLOC 49
+MALLOC 184
+READ 0x50000 594
+MALLOC 100
+FREE 0x31a00
+DUMP_MEMORY
+MALLOC 199
+WRITE 0x50000 "What good is an obscenity trial except to popularize literature?-- Nero Wolfe, "The League of Frightened Men"" 604
+MALLOC 6
+DUMP_MEMORY
+WRITE 0x38900 "You are fighting for survival in your own sweet and gentle way." 133
+WRITE 0x3ab00 "Never be led astray onto the path of virtue." 12
+FREE 0x30f00
+DUMP_MEMORY
+READ 0x40400 12
+WRITE 0x50000 "Slow day.  Practice crawling." 192
+READ 0x50000 880
+MALLOC 13
+MALLOC 121
+MALLOC 46
+DUMP_MEMORY
+READ 0x10194 15
+MALLOC 144
+READ 0x38900 68
+MALLOC 87
+WRITE 0x4b800 "You attempt things that you do not even plan because of your extreme stupidity." 206
+DUMP_MEMORY
+READ 0x40400 837
+READ 0x1024d 53
+FREE 0x20540
+FREE 0x3a000
+WRITE 0x40400 "Familiarity breeds contempt -- and children.-- Mark Twain" 789
+WRITE 0x50000 "You have an ambitious nature and may make a name for yourself." 924
+DUMP_MEMORY
+FREE 0x43a00
+WRITE 0x50000 "You will live a long, healthy, happy life and make bags of money." 231
+WRITE 0x40400 "And do you think (fop that I am) that I could be the Scarlet Pumpernickel?" 516
+DUMP_MEMORY
+FREE 0x10108
+MALLOC 26
+WRITE 0x40400 "Don't relax!  It's only your tension that's holding you together." 602
+MALLOC 20
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "You're not my type.  For that matter, you're not even my species!!!" 793
+DUMP_MEMORY
+WRITE 0x31080 "Stop!  There was first a game of blindman's buff.  Of course there was.And I no more believe Topper was really blind than I believe he had eyesin his boots.  My opinion is, that it was a done thing between him andScrooge's nephew; and that the Ghost of Christmas Present knew it.  Theway he went after that plump sister in the lace tucker, was an outrageon the credulity of human nature." 384
+MALLOC 114
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x4b400
+WRITE 0x40400 "Your life would be very empty if you had nothing to regret." 827
+MALLOC 153
+MALLOC 18
+MALLOC 191
+MALLOC 73
+READ 0x50000 390
+FREE 0x32400
+READ 0x30a00 138
+MALLOC 51
+DUMP_MEMORY
+FREE 0x4c000
+READ 0x1024d 56
+FREE 0x204e0
+WRITE 0x40400 "Communicate!  It can't make things any worse." 662
+MALLOC 108
+MALLOC 31
+DUMP_MEMORY
+MALLOC 193
+DUMP_MEMORY
+MALLOC 58
+DUMP_MEMORY
+FREE 0x4b800
+WRITE 0x40400 "Q:What's the difference between a Mac and an Etch-a-Sketch?A:You don't have to shake the Mac to clear the screen." 159
+WRITE 0x45600 "ROMEO:Courage, man; the hurt cannot be much.MERCUTIO:No, 'tis not so deep as a well, nor so wideas a church-door; but 'tis enough, 'twill serve." 30
+READ 0x50000 129
+READ 0x50000 111
+READ 0x101a9 61
+WRITE 0x44600 "The last thing one knows in constructing a work is what to put first.-- Blaise Pascal" 78
+READ 0x40400 19
+WRITE 0x50000 "Q:Why do people who live near Niagara Falls have flat foreheads?A:Because every morning they wake up thinking "What *is* that noise?Oh, right, *of course*!" 578
+WRITE 0x40c00 "Q:How many Oregonians does it take to screw in a light bulb?A:Three.  One to screw in the light bulb and two to fend off all thoseCalifornians trying to share the experience." 151
+FREE 0x10180
+WRITE 0x30100 "Avoid reality at all costs." 30
+FREE 0x38b00
+MALLOC 108
+DUMP_MEMORY
+FREE 0x100d8
+MALLOC 137
+MALLOC 21
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x28800
+READ 0x50000 60
+READ 0x100db 40
+MALLOC 76
+MALLOC 3
+MALLOC 223
+MALLOC 43
+MALLOC 58
+WRITE 0x288c0 "Q:What's the contour integral around Western Europe?A:Zero, because all the Poles are in Eastern Europe!Addendum: Actually, there ARE some Poles in Western Europe, but theyare removable!Q:An English mathematician (I forgot who) was asked by hisvery religious colleague: Do you believe in one God?A:Yes, up to isomorphism!Q:What is a compact city?A:It's a city that can be guarded by finitely many near-sightedpolicemen!-- Peter Lax" 428
+READ 0x101a9 44
+MALLOC 206
+MALLOC 19
+READ 0x40c00 87
+FREE 0x20140
+MALLOC 42
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 123
+FREE 0x18350
+WRITE 0x18170 "Its name is Public Opinion.  It is held in reverence.  It settles everything.Some think it is the voice of God.-- Mark Twain" 121
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "Habit is habit, and not to be flung out of the window by any man, but coaxeddown-stairs a step at a time.-- Mark Twain, "Pudd'nhead Wilson's Calendar" 797
+WRITE 0x38200 "You look tired." 1
+FREE 0x182a0
+READ 0x10174 4
+WRITE 0x50000 "The camel died quite suddenly on the second day, and Selena frettedsullenly and, buffing her already impeccable nails -- not for the firsttime since the journey begain -- pondered snidely if this would dissolveinto a vignette of minor inconveniences like all the other holidays spentwith Basil.-- Winning sentence, 1983 Bulwer-Lytton bad fiction contest." 1235
+READ 0x40400 463
+FREE 0x30200
+MALLOC 43
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 31
+MALLOC 30
+FREE 0x44000
+FREE 0x41e00
+WRITE 0x40400 "It's a very *__UN*lucky week in which to be took dead.-- Churchy La Femme" 786
+FREE 0x10048
+WRITE 0x32380 "If you sow your wild oats, hope for a crop failure." 16
+READ 0x31080 40
+READ 0x50000 68
+DUMP_MEMORY
+MALLOC 226
+WRITE 0x50000 "You may worry about your hair-do today, but tomorrow much peanut butter willbe sold." 1199
+READ 0x18340 12
+MALLOC 53
+FREE 0x285c0
+READ 0x30400 20
+MALLOC 156
+READ 0x50000 8
+READ 0x40400 55
+WRITE 0x50000 "You enjoy the company of other people." 410
+FREE 0x39c00
+FREE 0x18380
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 176
+READ 0x40a00 103
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 636
+READ 0x10174 7
+FREE 0x100e8
+DUMP_MEMORY
+READ 0x1021a 5
+FREE 0x30000
+WRITE 0x40400 "Alimony and bribes will engage a large share of your wealth." 824
+FREE 0x102a8
+DUMP_MEMORY
+FREE 0x10098
+FREE 0x42a00
+READ 0x10174 9
+MALLOC 367
+DUMP_MEMORY
+FREE 0x40200
+WRITE 0x40400 "All generalizations are false, including this one.-- Mark Twain" 74
+MALLOC 289
+WRITE 0x10260 "Change your thoughts and you change your world." 44
+FREE 0x28840
+FREE 0x41400
+DUMP_MEMORY
+MALLOC 657
+FREE 0x30900
+WRITE 0x40400 "You will receive a legacy which will place you above want." 582
+MALLOC 145
+READ 0x40400 16
+READ 0x1018a 1
+WRITE 0x50000 "You may my glories and my state dispose,But not my griefs; still am I king of those.-- William Shakespeare, "Richard II"" 636
+WRITE 0x40400 "Q:How many surrealists does it take to change a light bulb?A:Two, one to hold the giraffe, and the other to fill the bathtubwith brightly colored machine tools.[Surrealist jokes just aren't my cup of fur.  Ed.]" 925
+FREE 0x101d8
+WRITE 0x50000 "English literature's performing flea.-- Sean O'Casey on P. G. Wodehouse" 779
+WRITE 0x50000 "You will soon forget this." 273
+FREE 0x46a00
+READ 0x45200 128
+READ 0x50000 335
+MALLOC 436
+MALLOC 22
+FREE 0x201c0
+WRITE 0x50000 "Keep emotionally active.  Cater to your favorite neurosis." 341
+READ 0x50000 97
+DUMP_MEMORY
+WRITE 0x201a0 "You will gain money by an illegal action." 38
+WRITE 0x31380 "Your society will be sought by people of taste and refinement." 43
+DUMP_MEMORY
+WRITE 0x40800 "Habit is habit, and not to be flung out of the window by any man, but coaxeddown-stairs a step at a time.-- Mark Twain, "Pudd'nhead Wilson's Calendar" 110
+FREE 0x28140
+FREE 0x30e80
+FREE 0x39000
+MALLOC 14
+MALLOC 76
+READ 0x100db 4
+MALLOC 15
+WRITE 0x100a0 "Q:How many IBM types does it take to change a light bulb?A:Fifteen.  One to do it, and fourteen to write document numberGC7500439-0001, Multitasking Incandescent Source System Facility,of which 10% of the pages state only "This page intentionallyleft blank", and 20% of the definitions are of the form "A:.....consists of sequences of non-blank characters separated by blanks"." 374
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x3bc00
+MALLOC 88
+MALLOC 100
+WRITE 0x40400 "You are number 6!  Who is number one?" 333
+FREE 0x38d00
+FREE 0x30100
+MALLOC 19
+MALLOC 120
+MALLOC 43
+MALLOC 718
+DUMP_MEMORY
+FREE 0x28880
+DUMP_MEMORY
+READ 0x50000 114
+MALLOC 237
+FREE 0x39500
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 23
+DUMP_MEMORY
+MALLOC 226
+MALLOC 237
+WRITE 0x50000 "Someone is speaking well of you.How unusual!" 408
+READ 0x31970 3
+MALLOC 220
+WRITE 0x50000 "As flies to wanton boys are we to the gods; they kill us for their sport.-- Shakespeare, "King Lear"" 1364
+DUMP_MEMORY
+READ 0x31080 348
+WRITE 0x40400 "Q:What's buried in Grant's tomb?A:A corpse." 663
+DUMP_MEMORY
+READ 0x40400 733
+READ 0x10182 3
+WRITE 0x50000 "Try to get all of your posthumous medals in advance." 1101
+DUMP_MEMORY
+WRITE 0x40400 "You have the power to influence all with whom you come in contact." 729
+READ 0x50000 301
+DUMP_MEMORY
+FREE 0x20120
+WRITE 0x40400 "Q:Why did the tachyon cross the road?A:Because it was on the other side." 743
+MALLOC 52
+DUMP_MEMORY
+MALLOC 43
+FREE 0x205c0
+WRITE 0x50000 "Good day for overcoming obstacles.  Try a steeplechase." 919
+MALLOC 148
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 313
+WRITE 0x40400 "Q:How many Harvard MBA's does it take to screw in a light bulb?A:Just one.  He grasps it firmly and the universe revolves around him." 784
+MALLOC 34
+WRITE 0x50000 "Generosity and perfection are your everlasting goals." 586
+WRITE 0x3ba00 "Write yourself a threatening letter and pen a defiant reply." 164
+READ 0x30400 2
+DUMP_MEMORY
+WRITE 0x40400 "Day of inquiry.  You will be subpoenaed." 804
+MALLOC 233
+WRITE 0x40400 "Q:Why do people who live near Niagara Falls have flat foreheads?A:Because every morning they wake up thinking "What *is* that noise?Oh, right, *of course*!" 365
+WRITE 0x50000 "He hath eaten me out of house and home.-- William Shakespeare, "Henry IV"" 999
+MALLOC 452
+READ 0x31380 74
+FREE 0x30400
+DUMP_MEMORY
+WRITE 0x50000 "Perilous to all of us are the devices of an art deeper than we ourselvespossess.-- Gandalf the Grey [J.R.R. Tolkien, "Lord of the Rings"]" 280
+WRITE 0x50000 "There is a 20% chance of tomorrow." 990
+READ 0x1018a 1
+FREE 0x10020
+DUMP_MEMORY
+WRITE 0x50000 "Today is the first day of the rest of your life." 613
+DUMP_MEMORY
+READ 0x1021a 2
+MALLOC 733
+FREE 0x39300
+READ 0x50000 705
+READ 0x50000 157
+DUMP_MEMORY
+FREE 0x10090
+MALLOC 55
+FREE 0x32280
+MALLOC 198
+READ 0x201a0 26
+WRITE 0x38c00 "You have the power to influence all with whom you come in contact." 38
+READ 0x50000 433
+FREE 0x38100
+WRITE 0x30080 "Sometimes I wonder if I'm in my right mind.  Then it passes off and I'mas intelligent as ever.-- Samuel Beckett, "Endgame"" 119
+WRITE 0x28200 "Try the Moo Shu Pork.  It is especially good today." 7
+READ 0x40400 356
+READ 0x100db 5
+MALLOC 430
+WRITE 0x40400 "You will pioneer the first Martian colony." 440
+FREE 0x20020
+MALLOC 3
+FREE 0x31600
+WRITE 0x50000 "Look afar and see the end from the beginning." 740
+READ 0x1021a 5
+DUMP_MEMORY
+READ 0x40400 378
+FREE 0x288c0
+READ 0x40400 632
+MALLOC 80
+MALLOC 489
+DUMP_MEMORY
+READ 0x50000 164
+READ 0x100db 2
+MALLOC 65
+FREE 0x4c800
+READ 0x1835c 1
+READ 0x50000 287
+WRITE 0x204a0 "question = ( to ) ? be : ! be;-- Wm. Shakespeare" 45
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x20640
+WRITE 0x50000 "You will be awarded a medal for disregarding safety in saving someone." 670
+READ 0x50000 444
+READ 0x40400 542
+FREE 0x3bd00
+MALLOC 3
+FREE 0x3a900
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x18030
+READ 0x50000 564
+DUMP_MEMORY
+FREE 0x28300
+WRITE 0x31400 "Q:How many gradual (sorry, that's supposed to be "graduate") studentsdoes it take to screw in a light bulb?A:"I'm afraid we don't know, but make my stipend tax-free, give myadvisor a $30,000 grant of the taxpayer's money, and I'm sure hecan tell me how to do the gruntwork for him so he can take thecredit for answering this incredibly vital question."" 349
+READ 0x1835c 1
+DUMP_MEMORY
+FREE 0x10260
+MALLOC 657
+DUMP_MEMORY
+WRITE 0x30e00 "Consider well the proportions of things.  It is better to be a young June-bugthan an old bird of paradise.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 148
+WRITE 0x40400 "Bank error in your favor.  Collect $200." 590
+READ 0x40400 367
+READ 0x50000 23
+READ 0x40400 399
+DUMP_MEMORY
+READ 0x3ba00 19
+WRITE 0x32700 "Try to value useful qualities in one who loves you." 2
+WRITE 0x101a0 "You will have a long and unpleasant discussion with your supervisor." 65
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 400
+MALLOC 199
+FREE 0x28180
+FREE 0x3c100
+WRITE 0x40400 "Try to relax and enjoy the crisis.-- Ashleigh Brilliant" 580
+MALLOC 22
+READ 0x50000 107
+READ 0x31380 84
+MALLOC 286
+FREE 0x10110
+WRITE 0x50000 "Q:How many Martians does it take to screw in a light bulb?A:One and a half." 339
+DUMP_MEMORY
+READ 0x50000 92
+MALLOC 37
+DUMP_MEMORY
+WRITE 0x42200 "Your object is to save the world, while still leading a pleasant life." 36
+FREE 0x31e00
+FREE 0x30c00
+FREE 0x18320
+READ 0x10261 8
+READ 0x40c00 97
+READ 0x40400 68
+WRITE 0x50000 "Sheriff Chameleotoptor sighed with an air of weary sadness, and thenturned to Doppelgutt and said 'The Senator must really have been on abender this time -- he left a party in Cleveland, Ohio, at 11:30 lastnight, and they found his car this morning in the smokestack of a Britishaircraft carrier in the Formosa Straits.'-- Grand Panjandrum's Special Award, 1985 Bulwer-Lytton   bad fiction contest." 690
+READ 0x40400 181
+WRITE 0x50000 "You can do very well in speculation where land or anything to do with dirtis concerned." 91
+MALLOC 19
+READ 0x2041a 25
+DUMP_MEMORY
+FREE 0x102b8
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 246
+DUMP_MEMORY
+READ 0x50000 310
+READ 0x42200 21
+MALLOC 298
+READ 0x40c00 19
+WRITE 0x46c00 "You will lose your present job and have to become a door to door mayonnaisesalesman." 43
+READ 0x10194 18
+MALLOC 758
+WRITE 0x31000 "After your lover has gone you will still have PEANUT BUTTER!" 21
+MALLOC 125
+FREE 0x30a00
+MALLOC 77
+MALLOC 119
+READ 0x40400 156
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x100a8
+MALLOC 430
+MALLOC 436
+FREE 0x32a00
+MALLOC 286
+WRITE 0x50000 "Courage is your greatest present need." 404
+WRITE 0x50000 "Tomorrow, you can be anywhere." 966
+MALLOC 63
+READ 0x50000 6
+READ 0x10227 24
+READ 0x1024d 17
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "Don't hate yourself in the morning -- sleep till noon." 920
+FREE 0x39800
+MALLOC 67
+READ 0x32700 1
+FREE 0x10070
+READ 0x40400 578
+MALLOC 177
+FREE 0x181e0
+READ 0x32700 1
+MALLOC 145
+DUMP_MEMORY
+WRITE 0x38900 "You will give someone a piece of your mind, which you can ill afford." 210
+DUMP_MEMORY
+WRITE 0x44800 "You will always get the greatest recognition for the job you least like." 63
+WRITE 0x40400 "Q:What do you get when you cross the Godfather with an attorney?A:An offer you can't understand." 302
+FREE 0x10038
+READ 0x40400 284
+FREE 0x40000
+READ 0x18170 58
+READ 0x1010a 3
+FREE 0x3b300
+WRITE 0x40400 "Your reasoning powers are good, and you are a fairly good planner." 621
+FREE 0x28500
+READ 0x100db 11
+READ 0x30a4b 22
+MALLOC 119
+WRITE 0x44600 "You will be awarded a medal for disregarding safety in saving someone." 177
+DUMP_MEMORY
+MALLOC 79
+MALLOC 121
+READ 0x40400 252
+MALLOC 123
+WRITE 0x3a800 "It is by the fortune of God that, in this country, we have three benefits:freedom of speech, freedom of thought, and the wisdom never to use either.-- Mark Twain" 158
+READ 0x40400 209
+FREE 0x28540
+READ 0x10113 181
+DUMP_MEMORY
+READ 0x50000 72
+READ 0x40400 234
+FREE 0x3c200
+FREE 0x287c0
+MALLOC 246
+MALLOC 7
+WRITE 0x40400 "You recoil from the crude; you tend naturally toward the exquisite." 175
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x43e00
+FREE 0x18010
+FREE 0x100c8
+MALLOC 37
+READ 0x50000 265
+WRITE 0x50000 "Your mode of life will be changed for the better because of new developments." 1008
+FREE 0x44200
+FREE 0x3bf00
+MALLOC 51
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 394
+WRITE 0x50000 "You will obey or molten silver will be poured into your ears." 761
+WRITE 0x40400 "You worry too much about your job.  Stop it.  You are not paid enough to worry." 375
+FREE 0x38700
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x50000 "For a light heart lives long.-- Shakespeare, "Love's Labour's Lost"" 646
+MALLOC 39
+MALLOC 43
+READ 0x50000 329
+WRITE 0x50000 "Is that really YOU that is reading this?" 1091
+FREE 0x10210
+FREE 0x28000
+MALLOC 312
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x18200
+READ 0x3ab00 9
+FREE 0x18290
+DUMP_MEMORY
+FREE 0x31380
+FREE 0x18000
+READ 0x50000 42
+WRITE 0x40400 "Clothes make the man.  Naked people have little or no influence on society.-- Mark Twain" 380
+READ 0x31000 12
+FREE 0x31c80
+FREE 0x31f00
+READ 0x204a0 45
+DUMP_MEMORY
+READ 0x50000 285
+DUMP_MEMORY
+WRITE 0x40400 "Good day for a change of scene.  Repaper the bedroom wall." 753
+READ 0x44600 66
+READ 0x50000 17
+READ 0x31880 11
+MALLOC 306
+FREE 0x10118
+DUMP_MEMORY
+READ 0x40400 378
+MALLOC 206
+WRITE 0x50000 "A kind of Batman of contemporary letters.-- Philip Larkin on Anthony Burgess" 1030
+MALLOC 412
+MALLOC 156
+WRITE 0x50000 "You will gain money by a speculation or lottery." 909
+MALLOC 31
+DUMP_MEMORY
+MALLOC 417
+FREE 0x100e0
+MALLOC 72
+WRITE 0x40400 "You will be awarded a medal for disregarding safety in saving someone." 187
+DUMP_MEMORY
+FREE 0x10270
+DUMP_MEMORY
+READ 0x50000 498
+DUMP_MEMORY
+READ 0x40400 407
+MALLOC 199
+DUMP_MEMORY
+READ 0x50000 459
+DUMP_MEMORY
+WRITE 0x40400 "Q:What's the difference betweeen USL and the Graf Zeppelin?A:The Graf Zeppelin represented cutting edge technology for its time." 138
+WRITE 0x10178 "It has long been an axiom of mine that the little things are infinitelythe most important.-- Sir Arthur Conan Doyle, "A Case of Identity"" 134
+MALLOC 23
+FREE 0x42e00
+DUMP_MEMORY
+READ 0x100ab 23
+WRITE 0x40400 "Among the lucky, you are the chosen one." 725
+READ 0x50000 449
+READ 0x100db 3
+WRITE 0x40400 "Steady movement is more important than speed, much of the time.  So longas there is a regular progression of stimuli to get your mental hooksinto, there is room for lateral movement.  Once this begins, its rate isa matter of discretion.-- Corwin, Prince of Amber" 313
+WRITE 0x304ab "You are magnetic in your bearing." 10
+READ 0x10113 4
+READ 0x50000 818
+FREE 0x28400
+READ 0x50000 558
+READ 0x50000 290
+READ 0x50000 269
+MALLOC 430
+READ 0x10152 4
+FREE 0x20160
+DUMP_MEMORY
+FREE 0x18270
+FREE 0x39200
+WRITE 0x40400 "Avert misunderstanding by calm, poise, and balance." 845
+MALLOC 68
+FREE 0x45800
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 452
+FREE 0x3b500
+FREE 0x31800
+READ 0x50000 569
+DUMP_MEMORY
+FREE 0x3c700
+DUMP_MEMORY
+READ 0x100e3 13
+FREE 0x4b1a1
+WRITE 0x40400 "Fine day to work off excess energy.  Steal something heavy." 204
+READ 0x31080 211
+DUMP_MEMORY
+FREE 0x181d0
+MALLOC 275
+FREE 0x30600
+MALLOC 43
+FREE 0x20460
+FREE 0x28380
+READ 0x50000 323
+MALLOC 217
+DUMP_MEMORY
+WRITE 0x4dc00 "Beware of a tall blond man with one black shoe." 104
+READ 0x40800 55
+READ 0x50000 754
+WRITE 0x47e00 "Never be led astray onto the path of virtue." 70
+DUMP_MEMORY
+MALLOC 46
+FREE 0x20300
+MALLOC 169
+WRITE 0x28980 "You will remember something that you should not have forgotten." 60
+MALLOC 6
+DUMP_MEMORY
+READ 0x50000 612
+MALLOC 65
+MALLOC 10
+WRITE 0x32380 "Many pages make a thick book, except for pocket Bibles which are on veryvery thin paper." 85
+WRITE 0x40400 "Q:How many mathematicians does it take to screw in a light bulb?A:One.  He gives it to six Californians, thereby reducing the problemto the earlier joke." 563
+FREE 0x31980
+MALLOC 233
+FREE 0x20600
+FREE 0x31500
+MALLOC 184
+DUMP_MEMORY
+READ 0x50000 40
+MALLOC 35
+FREE 0x45a00
+DUMP_MEMORY
+WRITE 0x40400 "A long-forgotten loved one will appear soon.Buy the negatives at any price." 509
+DUMP_MEMORY
+FREE 0x40ab8
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 462
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 585
+WRITE 0x40400 "A day for firm decisions!!!!!  Or is it?" 809
+DUMP_MEMORY
+MALLOC 735
+FREE 0x28200
+MALLOC 111
+READ 0x40400 565
+FREE 0x28a80
+MALLOC 436
+MALLOC 156
+DUMP_MEMORY
+WRITE 0x50000 "Patch griefs with proverbs.-- William Shakespeare, "Much Ado About Nothing"" 1170
+MALLOC 56
+DUMP_MEMORY
+FREE 0x20240
+MALLOC 236
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x32380 20
+READ 0x40400 11
+DUMP_MEMORY
+MALLOC 42
+DUMP_MEMORY
+READ 0x40400 6
+WRITE 0x40400 "Cold hands, no gloves." 834
+MALLOC 12
+MALLOC 48
+READ 0x50000 128
+DUMP_MEMORY
+READ 0x50000 627
+FREE 0x39400
+FREE 0x32600
+READ 0x40400 558
+READ 0x50000 243
+FREE 0x3b000
+DUMP_MEMORY
+READ 0x50000 3
+READ 0x40400 163
+WRITE 0x28c00 "Q:Minnesotans ask, "Why aren't there more pharmacists from Alabama?"A:Easy.  It's because they can't figure out how to get the littlebottles into the typewriter." 158
+READ 0x10227 46
+FREE 0x3be00
+MALLOC 83
+MALLOC 73
+DUMP_MEMORY
+READ 0x45600 30
+FREE 0x3b700
+DUMP_MEMORY
+WRITE 0x32980 "Clothes make the man.  Naked people have little or no influence on society.-- Mark Twain" 85
+FREE 0x31700
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x50000 "You will probably marry after a very brief courtship." 919
+WRITE 0x50000 "There is a 20% chance of tomorrow." 1328
+FREE 0x44e00
+WRITE 0x32800 "The devil can cite Scripture for his purpose.-- William Shakespeare, "The Merchant of Venice"" 87
+READ 0x50000 343
+WRITE 0x50000 "Today's weirdness is tomorrow's reason why.-- Hunter S. Thompson" 155
+MALLOC 61
+READ 0x50000 693
+WRITE 0x40400 "Your ignorance cramps my conversation." 19
+DUMP_MEMORY
+WRITE 0x50000 "Lady Luck brings added income today.  Lady friend takes it away tonight." 1242
+FREE 0x46200
+FREE 0x32580
+WRITE 0x44c00 "That secret you've been guarding, isn't." 311
+MALLOC 97
+MALLOC 480
+READ 0x50000 449
+READ 0x3a800 54
+MALLOC 12
+READ 0x31400 138
+READ 0x50000 551
+READ 0x40400 15
+MALLOC 306
+DUMP_MEMORY
+MALLOC 9
+DUMP_MEMORY
+FREE 0x30680
+FREE 0x180b0
+READ 0x40400 709
+MALLOC 451
+READ 0x50000 54
+DUMP_MEMORY
+WRITE 0x42200 "Big book, big bore.-- Callimachus" 46
+FREE 0x32200
+DUMP_MEMORY
+FREE 0x28980
+DUMP_MEMORY
+WRITE 0x3a800 "Q:What's the difference between USL and the Titanic?A:The Titanic had a band." 141
+DUMP_MEMORY
+FREE 0x18180
+READ 0x10099 11
+MALLOC 51
+MALLOC 5
+WRITE 0x31580 "So you're back... about time..." 90
+READ 0x50000 53
+FREE 0x10000
+FREE 0x100f0
+FREE 0x28c40
+FREE 0x28700
+FREE 0x47200
+MALLOC 50
+MALLOC 61
+WRITE 0x40400 "Go not to the elves for counsel, for they will say both yes and no.-- J.R.R. Tolkien" 12
+WRITE 0x40400 "There is always one thing to remember: writers are always selling somebody out.-- Joan Didion, "Slouching Towards Bethlehem"" 74
+WRITE 0x4bc9c "A few hours grace before the madness begins again." 82
+WRITE 0x18340 "Q:Where's the Lone Ranger take his garbage?A:To the dump, to the dump, to the dump dump dump!Q:What's the Pink Panther say when he steps on an ant hill?A:Dead ant, dead ant, dead ant dead ant dead ant..." 200
+READ 0x2041a 17
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "Q:Why do people who live near Niagara Falls have flat foreheads?A:Because every morning they wake up thinking "What *is* that noise?Oh, right, *of course*!" 251
+WRITE 0x1000f "Don't let your mind wander -- it's too little to be let out alone." 63
+READ 0x40400 766
+WRITE 0x40400 "You're a card which will have to be dealt with." 9
+READ 0x50000 54
+WRITE 0x50000 "This night methinks is but the daylight sick.-- William Shakespeare, "The Merchant of Venice"" 265
+FREE 0x20580
+WRITE 0x40400 "You are not dead yet.  But watch for further reports." 33
+WRITE 0x40400 "You have an unusual understanding of the problems of human relationships." 907
+FREE 0x304ab
+FREE 0x4003d
+WRITE 0x40400 "By trying we can easily learn to endure adversity.  Another man's, I mean.-- Mark Twain" 511
+DUMP_MEMORY
+WRITE 0x20660 "For a light heart lives long.-- Shakespeare, "Love's Labour's Lost"" 64
+WRITE 0x40400 "Try to have as good a life as you can under the circumstances." 70
+FREE 0x4d000
+WRITE 0x40400 "It has long been an axiom of mine that the little things are infinitelythe most important.-- Sir Arthur Conan Doyle, "A Case of Identity"" 349
+MALLOC 39
+FREE 0x101c8
+READ 0x100a0 7
+READ 0x313c4 7
+MALLOC 35
+DUMP_MEMORY
+FREE 0x4a19c
+READ 0x32800 62
+FREE 0x39e00
+DUMP_MEMORY
+WRITE 0x40400 "You can rent this space for only $5 a week." 910
+FREE 0x20520
+FREE 0x42000
+READ 0x40400 287
+MALLOC 496
+WRITE 0x10030 "So this is it.  We're going to die." 32
+FREE 0x3c000
+WRITE 0x30280 "Have a place for everything and keep the thing somewhere else; this is notadvice, it is merely custom.-- Mark Twain" 112
+FREE 0x31880
+FREE 0x30f00
+DUMP_MEMORY
+WRITE 0x40400 "Grief can take care of itself; but to get the full value of a joy you musthave somebody to divide it with.-- Mark Twain" 159
+WRITE 0x50000 "You single-handedly fought your way into this hopeless mess." 546
+WRITE 0x40400 "You will get what you deserve." 161
+WRITE 0x38d00 "Q:What do agnostic, insomniac dyslexics do at night?A:Stay awake and wonder if there's a dog." 89
+READ 0x32380 21
+MALLOC 226
+MALLOC 34
+WRITE 0x40400 "Of course you have a purpose -- to find a purpose." 658
+WRITE 0x200a0 "Q:How many IBM 370's does it take to execute a job?A:Four, three to hold it down, and one to rip its head off." 107
+DUMP_MEMORY
+WRITE 0x40400 "There is no hunting like the hunting of man, and those who have huntedarmed men long enough and liked it, never care for anything else thereafter.-- Ernest Hemingway" 95
+READ 0x318e5 16
+MALLOC 203
+DUMP_MEMORY
+WRITE 0x50000 "He that breaks a thing to find out what it is has left the path of wisdom.-- J.R.R. Tolkien" 603
+DUMP_MEMORY
+MALLOC 220
+DUMP_MEMORY
+FREE 0x38d00
+FREE 0x3ac00
+DUMP_MEMORY
+READ 0x50000 301
+MALLOC 82
+DUMP_MEMORY
+WRITE 0x31e80 "Break into jail and claim police brutality." 28
+READ 0x40400 16
+MALLOC 51
+READ 0x28c62 16
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x30523
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x40400 "The devil can cite Scripture for his purpose.-- William Shakespeare, "The Merchant of Venice"" 702
+READ 0x38c00 25
+FREE 0x31d80
+READ 0x288e8 131
+WRITE 0x10178 "There is always one thing to remember: writers are always selling somebody out.-- Joan Didion, "Slouching Towards Bethlehem"" 121
+WRITE 0x40400 "Training is everything.  The peach was once a bitter almond; cauliflower isnothing but cabbage with a college education.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 512
+FREE 0x32700
+DUMP_MEMORY
+READ 0x50000 619
+READ 0x40400 58
+DUMP_MEMORY
+FREE 0x20380
+FREE 0x18020
+READ 0x50000 123
+READ 0x50000 692
+WRITE 0x40400 "You are only young once, but you can stay immature indefinitely." 556
+MALLOC 55
+WRITE 0x3088c "Even the clearest and most perfect circumstantial evidence is likely to be atfault, after all, and therefore ought to be received with great caution.  Takethe case of any pencil, sharpened by any woman; if you have witnesses, you willfind she did it with a knife; but if you take simply the aspect of the pencil,you will say that she did it with her teeth.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 398
+DUMP_MEMORY
+WRITE 0x4d400 "Q:How do you shoot a blue elephant?A:With a blue-elephant gun.Q:How do you shoot a pink elephant?A:Twist its trunk until it turns blue, then shoot it witha blue-elephant gun." 633
+WRITE 0x49000 "Q:Where's the Lone Ranger take his garbage?A:To the dump, to the dump, to the dump dump dump!Q:What's the Pink Panther say when he steps on an ant hill?A:Dead ant, dead ant, dead ant dead ant dead ant..." 112
+READ 0x40400 377
+DUMP_MEMORY
+WRITE 0x40400 "I'll burn my books.-- Christopher Marlowe" 856
+DUMP_MEMORY
+MALLOC 203
+READ 0x100cb 1
+WRITE 0x50000 "Bridge ahead.  Pay troll." 285
+MALLOC 19
+WRITE 0x50000 "Patch griefs with proverbs.-- William Shakespeare, "Much Ado About Nothing"" 380
+READ 0x100db 3
+DUMP_MEMORY
+MALLOC 57
+FREE 0x20220
+FREE 0x10028
+FREE 0x31b00
+MALLOC 63
+READ 0x101cc 2
+READ 0x50000 251
+DUMP_MEMORY
+MALLOC 82
+FREE 0x30080
+READ 0x50000 228
+WRITE 0x20040 "The Priest's grey nimbus in a niche where he dressed discreetly.I will not sleep here tonight. Home also I cannot go.A voice, sweetened and sustained, called to him from the sea.Turning the curve he waved his hand.  A sleek brown head, a seal's, farout on the water, round.  Usurper.-- James Joyce, "Ulysses"" 305
+MALLOC 120
+MALLOC 26
+WRITE 0x50000 "To be or not to be.-- ShakespeareTo do is to be.-- NietzscheTo be is to do.-- SartreDo be do be do.-- Sinatra" 833
+MALLOC 321
+DUMP_MEMORY
+WRITE 0x40400 "Q:How do you save a drowning lawyer?A:Throw him a rock." 416
+FREE 0x47400
+DUMP_MEMORY
+FREE 0x4b800
+FREE 0x39b41
+READ 0x313c4 7
+DUMP_MEMORY
+WRITE 0x50000 "All the troubles you have will pass away very quickly." 1158
+READ 0x10178 78
+DUMP_MEMORY
+FREE 0x41c00
+WRITE 0x50000 "Q:How do you keep a moron in suspense?" 329
+MALLOC 758
+FREE 0x50000
+FREE 0x3ba00
+READ 0x18340 7
+READ 0x204a0 18
+DUMP_MEMORY
+WRITE 0x40400 "Q:What is purple and conquered the world?A:Alexander the Grape." 139
+READ 0x40400 39
+DUMP_MEMORY
+WRITE 0x50800 "Many changes of mind and mood; do not hesitate too long." 685
+WRITE 0x50800 "Tomorrow, you can be anywhere." 536
+READ 0x101cc 19
+READ 0x10178 32
+READ 0x40400 413
+MALLOC 57
+FREE 0x28c00
+MALLOC 45
+READ 0x40400 465
+MALLOC 11
+WRITE 0x32900 "While you recently had your problems on the run, they've regrouped andare making another attack." 93
+FREE 0x38500
+FREE 0x20200
+FREE 0x28640
+READ 0x101cc 53
+DUMP_MEMORY
+FREE 0x46600
+FREE 0x20260
+MALLOC 82
+FREE 0x48c00
+READ 0x50000 477
+MALLOC 373
+MALLOC 75
+MALLOC 108
+MALLOC 103
+READ 0x50000 666
+FREE 0x31b80
+FREE 0x28180
+MALLOC 108
+DUMP_MEMORY
+WRITE 0x100f8 "The naked truth of it is, I have no shirt.-- William Shakespeare, "Love's Labour's Lost"" 85
+DUMP_MEMORY
+FREE 0x18160
+READ 0x50000 665
+MALLOC 15
+WRITE 0x40400 "You had some happiness once, but your parents moved away, and you had toleave it behind." 153
+MALLOC 94
+MALLOC 21
+DUMP_MEMORY
+FREE 0x45c00
+READ 0x44600 32
+FREE 0x31400
+MALLOC 77
+DUMP_MEMORY
+READ 0x100e3 2
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x282c0
+DUMP_MEMORY
+READ 0x32900 54
+FREE 0x307bf
+WRITE 0x50800 "You will wish you hadn't." 1094
+WRITE 0x40400 "Q:What's the difference between USL and the Titanic?A:The Titanic had a band." 799
+MALLOC 75
+FREE 0x3aa00
+READ 0x10261 10
+DUMP_MEMORY
+READ 0x1818b 29
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 137
+READ 0x40400 194
+MALLOC 108
+READ 0x2041a 18
+WRITE 0x4d800 "Be careful!  Is it classified?" 273
+WRITE 0x40400 "Q:How many lawyers does it take to change a light bulb?A:Whereas the party of the first part, also known as "Lawyer", and theparty of the second part, also known as "Light Bulb", do hereby and forthwithagree to a transaction wherein the party of the second part shall be removedfrom the current position as a result of failure to perform previously agreedupon duties, i.e., the lighting, elucidation, and otherwise illumination ofthe area ranging from the front (north) door, through the entryway, terminatingat " 896
+MALLOC 21
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x46800
+FREE 0x32980
+MALLOC 25
+READ 0x42200 4
+WRITE 0x40ec7 "Your mode of life will be changed for the better because of new developments." 94
+READ 0x40400 41
+FREE 0x101d0
+MALLOC 199
+MALLOC 51
+DUMP_MEMORY
+READ 0x31970 3
+WRITE 0x206c0 "The Least Perceptive Literary CriticThe most important critic in our field of study is Lord Halifax.  Amost individual judge of poetry, he once invited Alexander Pope round togive a public reading of his latest poem.Pope, the leading poet of his day, was greatly surprised when LordHalifax stopped him four or five times and said, "I beg your pardon, Mr.Pope, but there is something in that passage that does not quite please me."Pope was rendered speechless, as this fine critic suggested sizeableand unwise eme" 509
+DUMP_MEMORY
+FREE 0x20320
+READ 0x20040 87
+DUMP_MEMORY
+FREE 0x10228
+READ 0x40400 219
+DUMP_MEMORY
+FREE 0x18060
+MALLOC 145
+MALLOC 46
+FREE 0x38000
+MALLOC 5
+FREE 0x41200
+READ 0x50000 2
+FREE 0x18390
+MALLOC 182
+READ 0x32800 3
+WRITE 0x20360 "Q:What do you call the money you pay to the government whenyou ride into the country on the back of an elephant?A:A howdah duty." 125
+WRITE 0x40400 "You get along very well with everyone except animals and people." 824
+MALLOC 42
+READ 0x50000 916
+MALLOC 28
+FREE 0x1002d
+MALLOC 22
+WRITE 0x3b400 "Many changes of mind and mood; do not hesitate too long." 57
+READ 0x50000 385
+WRITE 0x40400 "If more of us valued food and cheer and song above hoarded gold, it wouldbe a merrier world.-- J.R.R. Tolkien" 198
+WRITE 0x31080 "Do not sleep in a eucalyptus tree tonight." 37
+WRITE 0x40400 "Afternoon very favorable for romance.  Try a single person for a change." 812
+MALLOC 45
+MALLOC 314
+WRITE 0x47800 "Another good night not to sleep in a eucalyptus tree." 33
+READ 0x1818b 38
+FREE 0x3c800
+DUMP_MEMORY
+WRITE 0x50800 "I have never let my schooling interfere with my education.-- Mark Twain" 525
+DUMP_MEMORY
+FREE 0x31100
+MALLOC 30
+MALLOC 26
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x41a00 "You're almost as happy as you think you are." 206
+READ 0x50000 670
+WRITE 0x40400 "If your life was a horse, you'd have to shoot it." 234
+FREE 0x32900
+FREE 0x39f67
+READ 0x40400 42
+DUMP_MEMORY
+WRITE 0x40400 "Rebellion lay in his way, and he found it.-- William Shakespeare, "Henry IV"" 39
+MALLOC 21
+MALLOC 34
+WRITE 0x50800 "You will be awarded the Nobel Peace Prize... posthumously." 578
+READ 0x20040 9
+DUMP_MEMORY
+READ 0x40c00 151
+WRITE 0x40400 ""Not Hercules could have knock'd out his brains, for he had none."-- Shakespeare" 349
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 184
+DUMP_MEMORY
+READ 0x50000 116
+FREE 0x40600
+DUMP_MEMORY
+READ 0x50000 934
+WRITE 0x18240 "All things that are, are with more spirit chased than enjoyed.-- Shakespeare, "Merchant of Venice"" 95
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x28cc0 "A day for firm decisions!!!!!  Or is it?" 37
+MALLOC 34
+WRITE 0x4c400 "You have the body of a 19 year old.  Please return it before it gets wrinkled." 660
+DUMP_MEMORY
+MALLOC 3
+FREE 0x18330
+READ 0x101cc 2
+READ 0x313c4 5
+MALLOC 22
+FREE 0x18170
+WRITE 0x303b3 "You should emulate your heros, but don't carry it too far.  Especiallyif they are dead." 84
+READ 0x50000 184
+MALLOC 33
+READ 0x50000 263
+WRITE 0x50800 "Like an expensive sports car, fine-tuned and well-built, Portia was sleek,shapely, and gorgeous, her red jumpsuit moulding her body, which was as warmas seatcovers in July, her hair as dark as new tires, her eyes flashing likebright hubcaps, and her lips as dewy as the beads of fresh rain on the hood;she was a woman driven -- fueled by a single accelerant -- and she needed aman, a man who wouldn't shift from his views, a man to steer her along theright road: a man like Alf Romeo.-- Rachel Sheeley, winnerThe" 694
+WRITE 0x50800 "You will be surprised by a loud noise." 519
+READ 0x100f5 13
+FREE 0x39a27
+WRITE 0x50800 "You are always busy." 485
+MALLOC 182
+MALLOC 22
+WRITE 0x50800 "You should go home." 885
+FREE 0x484b1
+MALLOC 127
+READ 0x1024d 16
+FREE 0x28880
+FREE 0x18090
+MALLOC 30
+READ 0x3a800 63
+READ 0x45600 11
+READ 0x40400 35
+READ 0x40800 73
+FREE 0x1000f
+READ 0x100cb 1
+MALLOC 735
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 91
+DUMP_MEMORY
+WRITE 0x18240 "You are wise, witty, and wonderful, but you spend too much time readingthis sort of trash." 87
+READ 0x1021a 4
+FREE 0x102c0
+MALLOC 309
+FREE 0x45200
+MALLOC 69
+WRITE 0x18240 "The surest protection against temptation is cowardice.-- Mark Twain" 64
+READ 0x40400 13
+MALLOC 489
+DUMP_MEMORY
+WRITE 0x30d00 "I'll burn my books.-- Christopher Marlowe" 30
+DUMP_MEMORY
+WRITE 0x30d00 "You may my glories and my state dispose,But not my griefs; still am I king of those.-- William Shakespeare, "Richard II"" 117
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x31c00
+READ 0x50000 69
+MALLOC 317
+DUMP_MEMORY
+FREE 0x180f0
+READ 0x50000 829
+MALLOC 97
+FREE 0x32ab3
+DUMP_MEMORY
+MALLOC 298
+DUMP_MEMORY
+FREE 0x20560
+READ 0x40400 72
+READ 0x40400 242
+WRITE 0x18240 "You have had a long-term stimulation relative to business." 55
+WRITE 0x4b800 "Q:What did Tarzan say when he saw the elephants coming over the hill?A:"The elephants are coming over the hill."Q:What did he say when saw them coming over the hill wearingsunglasses?A:Nothing, for he didn't recognize them." 545
+WRITE 0x18240 "Slow day.  Practice crawling." 19
+WRITE 0x18240 "They spell it "da Vinci" and pronounce it "da Vinchy".  Foreignersalways spell better than they pronounce.-- Mark Twain" 116
+MALLOC 266
+FREE 0x18120
+DUMP_MEMORY
+READ 0x40400 67
+MALLOC 457
+MALLOC 266
+WRITE 0x44400 "Q:How many supply-siders does it take to change a light bulb?A:None.  The darkness will cause the light bulb to change by itself." 40
+FREE 0x10198
+READ 0x40400 84
+WRITE 0x309ad "After all, all he did was string together a lot of old, well-known quotations.-- H. L. Mencken, on Shakespeare" 107
+READ 0x50000 760
+DUMP_MEMORY
+FREE 0x4a9e0
+READ 0x40400 218
+WRITE 0x49400 "Be careful!  Is it classified?" 408
+READ 0x40400 248
+WRITE 0x18130 "My only love sprung from my only hate!Too early seen unknown, and known too late!-- William Shakespeare, "Romeo and Juliet"" 120
+FREE 0x20040
+WRITE 0x40400 "You'll be called to a post requiring ability in handling groups of people." 433
+MALLOC 133
+READ 0x3088c 29
+FREE 0x205a0
+WRITE 0x101b0 "Q:What do agnostic, insomniac dyslexics do at night?A:Stay awake and wonder if there's a dog." 90
+FREE 0x20480
+MALLOC 198
+DUMP_MEMORY
+WRITE 0x40400 "You have had a long-term stimulation relative to business." 928
+WRITE 0x50800 "Best of all is never to have been born.  Second best is to die soon." 65
+MALLOC 306
+READ 0x18240 20
+WRITE 0x30900 "Don't you feel more like you do now than you did when you came in?" 29
+WRITE 0x4b800 "Q:Why did the programmer call his mother long distance?A:Because that was her name." 626
+FREE 0x30700
+READ 0x50000 302
+WRITE 0x50800 "Q:What's the difference between USL and the Titanic?A:The Titanic had a band." 366
+DUMP_MEMORY
+WRITE 0x10008 "Why is it that we rejoice at a birth and grieve at a funeral?  It is because weare not the person involved.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 149
+MALLOC 95
+DUMP_MEMORY
+MALLOC 68
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x102b0
+WRITE 0x40400 "Someone is speaking well of you." 473
+READ 0x20053 83
+FREE 0x31180
+FREE 0x3a100
+MALLOC 142
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 1
+WRITE 0x40400 "After all, all he did was string together a lot of old, well-known quotations.-- H. L. Mencken, on Shakespeare" 365
+READ 0x40400 5
+FREE 0x28a00
+WRITE 0x40400 "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #5A:The Halls of Montezuma and the Shores of Tripoli.Q:Name two families whose kids won't join the Marines." 570
+WRITE 0x50800 "Don't read everything you believe." 242
+READ 0x41a00 128
+DUMP_MEMORY
+WRITE 0x40400 "Be careful!  Is it classified?" 947
+WRITE 0x40400 "Q:What do you say to a New Yorker with a job?A:Big Mac, fries and a Coke, please!" 451
+WRITE 0x30122 "Just to have it is enough." 9
+FREE 0x3a700
+MALLOC 86
+FREE 0x38300
+WRITE 0x49dc4 "He draweth out the thread of his verbosity finer than the staple of hisargument.-- William Shakespeare, "Love's Labour's Lost"" 378
+MALLOC 104
+MALLOC 108
+READ 0x40400 262
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x3bb00
+WRITE 0x40400 "Every why hath a wherefore.-- William Shakespeare, "A Comedy of Errors"" 3
+MALLOC 18
+WRITE 0x2870f "Q:What do you say to a New Yorker with a job?A:Big Mac, fries and a Coke, please!" 78
+FREE 0x4bc00
+FREE 0x43400
+MALLOC 49
+MALLOC 847
+FREE 0x3ad00
+WRITE 0x100c0 "Your business will assume vast proportions." 40
+FREE 0x38700
+WRITE 0x50800 "Expect a letter from a friend who will ask a favor of you." 314
+WRITE 0x41c00 "I dote on his very absence.-- William Shakespeare, "The Merchant of Venice"" 255
+WRITE 0x50800 "You will always have good luck in your personal affairs." 948
+FREE 0x281d5
+WRITE 0x40400 "I will honour Christmas in my heart, and try to keep it all the year.  Iwill live in the Past, the Present, and the Future.  The Spirits of allThree shall strive within me.  I will not shut out the lessons that theyteach.  Oh, tell me that I may sponge away the writing on this stone!-- Charles Dickens" 264
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 398
+MALLOC 122
+DUMP_MEMORY
+WRITE 0x50800 "Q:How many lawyers does it take to change a light bulb?A:One.  Only it's his light bulb when he's done." 573
+MALLOC 88
+WRITE 0x50800 "Be careful of reading health books, you might die of a misprint.-- Mark Twain" 840
+READ 0x50000 20
+MALLOC 868
+DUMP_MEMORY
+WRITE 0x10280 "Do nothing unless you must, and when you must act -- hesitate." 59
+DUMP_MEMORY
+WRITE 0x50800 "You will be aided greatly by a person whom you thought to be unimportant." 660
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 258
+MALLOC 193
+READ 0x50000 1169
+READ 0x50000 507
+WRITE 0x50800 "She is not refined.  She is not unrefined.  She keeps a parrot.-- Mark Twain" 744
+READ 0x18340 43
+READ 0x50000 444
+FREE 0x4bc00
+READ 0x40400 135
+FREE 0x101e0
+DUMP_MEMORY
+FREE 0x412cb
+WRITE 0x50800 "Q:What do they call the alphabet in Arkansas?A:The impossible dream." 186
+READ 0x40400 125
+READ 0x40a00 69
+WRITE 0x32b00 "Q:How many members of the U.S.S. Enterprise does it take to change alight bulb?A:Seven.  Scotty has to report to Captain Kirk that the light bulb inthe Engineering Section is getting dim, at which point Kirk will sendBones to pronounce the bulb dead (although he'll immediately claimthat he's a doctor, not an electrician).  Scotty, after checkingaround, realizes that they have no more new light bulbs, and complainsthat he "canna" see in the dark.  Kirk will make an emergency stop atthe next uncharted planet," 509
+READ 0x10276 6
+READ 0x50000 100
+READ 0x50800 182
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 907
+MALLOC 417
+DUMP_MEMORY
+MALLOC 144
+WRITE 0x32100 "Q:Are we not men?A:We are Vaxen." 31
+WRITE 0x10280 "Tomorrow, this will be part of the unchangeable past but fortunately,it can still be changed today." 96
+FREE 0x28040
+READ 0x4b800 67
+FREE 0x10298
+MALLOC 20
+FREE 0x39a00
+READ 0x50800 383
+FREE 0x202eb
+WRITE 0x50800 "As to the Adjective: when in doubt, strike it out.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 231
+FREE 0x32380
+READ 0x1018a 1
+DUMP_MEMORY
+FREE 0x28840
+MALLOC 184
+FREE 0x47000
+WRITE 0x3bd32 "Familiarity breeds contempt -- and children.-- Mark Twain" 54
+FREE 0x31280
+WRITE 0x50800 "Q:How many Martians does it take to screw in a light bulb?A:One and a half." 1107
+DUMP_MEMORY
+FREE 0x10018
+MALLOC 48
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x3b600 "Day of inquiry.  You will be subpoenaed." 45
+WRITE 0x283d6 "You need no longer worry about the future.  This time tomorrow you'll be dead." 75
+WRITE 0x50800 "It's all in the mind, ya know." 894
+FREE 0x30500
+READ 0x50000 544
+DUMP_MEMORY
+READ 0x101e6 2
+FREE 0x44800
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x28680
+FREE 0x32b00
+FREE 0x18230
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50000 261
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x28600 "His followers called him Mahasamatman and said he was a god.  He preferredto drop the Maha- and the -atman, however, and called himself Sam.  He neverclaimed to be a god.  But then, he never claimed not to be a god.  Circum-stances being what they were, neither admission could be of any benefit.Silence, though, could.  It was in the days of the rains that their prayerswent up, not from the fingering of knotted prayer cords or the spinning ofprayer wheels, but from the great pray-machine in the monastery of " 509
+MALLOC 23
+DUMP_MEMORY
+FREE 0x28ac0
+DUMP_MEMORY
+FREE 0x39d00
+WRITE 0x50800 "It may or may not be worthwhile, but it still has to be done." 1019
+FREE 0x30f9a
+WRITE 0x10055 "If you pick up a starving dog and make him prosperous, he will not bite you.This is the principal difference between a dog and a man.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 175
+MALLOC 133
+WRITE 0x50800 "Someone is speaking well of you.How unusual!" 73
+DUMP_MEMORY
+MALLOC 324
+MALLOC 203
+FREE 0x20360
+WRITE 0x40400 "You can do very well in speculation where land or anything to do with dirtis concerned." 617
+READ 0x50000 32
+DUMP_MEMORY
+FREE 0x41800
+MALLOC 289
+WRITE 0x50800 "You are magnetic in your bearing." 1229
+READ 0x40400 477
+READ 0x100e3 8
+READ 0x10099 11
+WRITE 0x40400 "Beware of low-flying butterflies." 349
+WRITE 0x40400 "Don't look now, but the man in the moon is laughing at you." 414
+READ 0x50000 755
+WRITE 0x40400 "Your boss is a few sandwiches short of a picnic." 8
+FREE 0x32080
+READ 0x101cc 2
+WRITE 0x40400 "He was part of my dream, of course -- but then I was part of his dream too.-- Lewis Carroll" 776
+MALLOC 88
+FREE 0x40c00
+MALLOC 108
+MALLOC 199
+READ 0x40400 83
+FREE 0x2870f
+READ 0x50000 398
+DUMP_MEMORY
+WRITE 0x50800 "I was gratified to be able to answer promptly, and I did. I said I didn't know.-- Mark Twain" 208
+WRITE 0x50800 "Good night to spend with family, but avoid arguments with your mate'snew lover." 1148
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x50800 222
+WRITE 0x50800 "Q:How much does it cost to ride the Unibus?A:2 bits." 861
+WRITE 0x28bc0 "Q:How many hardware engineers does it take to change a light bulb?A:None.  We'll fix it in software.Q:How many system programmers does it take to change a light bulb?A:None.  The application can work around it.Q:How many software engineers does it take to change a light bulb?A:None.  We'll document it in the manual.Q:How many tech writers does it take to change a light bulb?A:None.  The user can figure it out." 410
+READ 0x47e00 68
+DUMP_MEMORY
+FREE 0x40600
+MALLOC 718
+MALLOC 39
+MALLOC 63
+FREE 0x49dc4
+READ 0x101cc 3
+DUMP_MEMORY
+WRITE 0x183b0 "The lunatic, the lover, and the poet,Are of imagination all compact...-- Wm. Shakespeare, "A Midsummer Night's Dream"" 114
+READ 0x4b800 85
+MALLOC 187
+MALLOC 733
+READ 0x50800 329
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x3ab00 2
+WRITE 0x18240 "Unless hours were cups of sack, and minutes capons, and clocks the tonguesof bawds, and dials the signs of leaping houses, and the blessed sun himselfa fair, hot wench in flame-colored taffeta, I see no reason why thou shouldstbe so superfluous to demand the time of the day.  I wasted time and now dothtime waste me.-- William Shakespeare" 336
+WRITE 0x18240 "The Least Perceptive Literary CriticThe most important critic in our field of study is Lord Halifax.  Amost individual judge of poetry, he once invited Alexander Pope round togive a public reading of his latest poem.Pope, the leading poet of his day, was greatly surprised when LordHalifax stopped him four or five times and said, "I beg your pardon, Mr.Pope, but there is something in that passage that does not quite please me."Pope was rendered speechless, as this fine critic suggested sizeableand unwise eme" 509
+WRITE 0x50800 "A banker is a fellow who lends you his umbrella when the sun is shiningand wants it back the minute it begins to rain.-- Mark Twain" 772
+WRITE 0x50800 "Repartee is something we think of twenty-four hours too late.-- Mark Twain" 925
+READ 0x18240 16
+FREE 0x10158
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 31
+MALLOC 34
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 193
+DUMP_MEMORY
+MALLOC 217
+WRITE 0x200e0 "You are a bundle of energy, always on the go." 42
+WRITE 0x50800 "The human race is a race of cowards; and I am not only marching in thatprocession but carrying a banner.-- Mark Twain" 559
+READ 0x31080 72
+FREE 0x20180
+WRITE 0x18240 "Q:How many Oregonians does it take to screw in a light bulb?A:Three.  One to screw in the light bulb and two to fend off all thoseCalifornians trying to share the experience." 171
+FREE 0x39900
+WRITE 0x30b14 "You never have to change anything you got up in the middle of the nightto write.-- Saul Bellow" 91
+READ 0x31000 6
+DUMP_MEMORY
+WRITE 0x39c7f "You like to form new friendships and make new acquaintances." 57
+MALLOC 125
+WRITE 0x18240 "Suspicion always haunts the guilty mind.-- Wm. Shakespeare" 55
+FREE 0x3a86c
+DUMP_MEMORY
+READ 0x30280 48
+MALLOC 51
+FREE 0x32a80
+FREE 0x183b0
+DUMP_MEMORY
+READ 0x50000 346
+MALLOC 279
+MALLOC 60
+WRITE 0x50800 "All I know is what the words know, and dead things, and thatmakes a handsome little sum, with a beginning and a middle andan end, as in the well-built phrase and the long sonata of the dead.-- Samuel Beckett" 411
+FREE 0x100b8
+WRITE 0x4c400 "Q:What lies on the bottom of the ocean and twitches?A:A nervous wreck." 416
+MALLOC 54
+READ 0x40400 2
+MALLOC 5
+READ 0x31080 10
+READ 0x50000 262
+DUMP_MEMORY
+READ 0x101b0 26
+MALLOC 29
+READ 0x10229 14
+FREE 0x28580
+MALLOC 23
+MALLOC 82
+READ 0x40400 62
+READ 0x50000 673
+FREE 0x10088
+MALLOC 156
+FREE 0x3941e
+READ 0x40400 260
+FREE 0x309ad
+WRITE 0x32000 "Alas, how love can trifle with itself!-- William Shakespeare, "The Two Gentlemen of Verona"" 90
+WRITE 0x18240 "You'll feel much better once you've given up hope." 47
+MALLOC 236
+DUMP_MEMORY
+WRITE 0x50800 "No live organism can continue for long to exist sanely under conditions ofabsolute reality; even larks and katydids are supposed, by some, to dream.Hill House, not sane, stood by itself against its hills, holding darknesswithin; it had stood so for eighty years and might stand for eighty more.Within, walls continued upright, bricks met neatly, floors were firm, anddoors were sensibly shut; silence lay steadily against the wood and stoneof Hill House, and whatever walked there, walked alone.-- Shirley Jackso" 401
+WRITE 0x50800 "The human race has one really effective weapon, and that is laughter.-- Mark Twain" 763
+DUMP_MEMORY
+FREE 0x302a5
+MALLOC 43
+FREE 0x30c80
+FREE 0x45600
+DUMP_MEMORY
+FREE 0x48800
+MALLOC 368
+MALLOC 19
+MALLOC 76
+FREE 0x39b00
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x31580
+WRITE 0x50800 "Your heart is pure, and your mind clear, and your soul devout." 1143
+WRITE 0x50800 "Q:How many Oregonians does it take to screw in a light bulb?A:Three.  One to screw in the light bulb and two to fend off all thoseCalifornians trying to share the experience." 1119
+DUMP_MEMORY
+MALLOC 36
+MALLOC 177
+WRITE 0x10068 "Someone is speaking well of you." 29
+WRITE 0x50800 "Save energy: be apathetic." 38
+READ 0x50800 376
+READ 0x100db 3
+WRITE 0x314b0 "The fashion wears out more apparel than the man.-- William Shakespeare, "Much Ado About Nothing"" 93
+READ 0x10019 46
+WRITE 0x50800 "Knucklehead:"Knock, knock"Pee Wee:"Who's there?"Knucklehead:"Little ol' lady."Pee Wee:"Liddle ol' lady who?"Knucklehead:"I didn't know you could yodel"" 1179
+FREE 0x4c400
+FREE 0x18210
+READ 0x40400 107
+WRITE 0x18370 "The human race has one really effective weapon, and that is laughter.-- Mark Twain" 79
+WRITE 0x18240 "Q:How do you play religious roulette?A:You stand around in a circle and blaspheme and see who getsstruck by lightning first." 121
+FREE 0x20680
+DUMP_MEMORY
+MALLOC 217
+MALLOC 221
+FREE 0x460f6
+MALLOC 237
+READ 0x318e5 23
+FREE 0x31300
+READ 0x32950 4
+MALLOC 37
+FREE 0x3bf00
+WRITE 0x18240 "In the space of one hundred and seventy-six years the Mississippi hasshortened itself two hundred and forty-two miles.  Therefore ... in the OldSilurian Period the Mississippi River was upward of one million three hundredthousand miles long ... seven hundred and forty-two years from now theMississippi will be only a mile and three-quarters long.  ... There issomething fascinating about science.  One gets such wholesome returns ofconjecture out of such a trifling investment of fact.-- Mark Twain" 496
+READ 0x50000 410
+WRITE 0x50800 ""Good afternoon, madam.  How may I help you?""Good afternoon.  I'd like a FrintArms HandCannon, please.""A--?  Oh, now, that's an awfully big gun for such a lovely lady.  Imean, not everybody thinks ladies should carry guns at all, though Isay they have a right to.  But I think... I might... Let's have a lookdown here.  I might have just the thing for you.  Yes, here we are!Look at that, isn't it neat?  Now that is a FrintArms product as well,but it's what's called a laser -- a light-pistol some people call" 703
+READ 0x18240 45
+WRITE 0x50800 "You will wish you hadn't." 757
+FREE 0x4c50a
+WRITE 0x38100 "Q:How many elephants can you fit in a VW Bug?A:Four.  Two in the front, two in the back.Q:How can you tell if an elephant is in your refrigerator?A:There's a footprint in the mayo.Q:How can you tell if two elephants are in your refrigerator?A:There's two footprints in the mayo.Q:How can you tell if three elephants are in your refrigerator?A:The door won't shut.Q:How can you tell if four elephants are in your refrigerator?A:There's a VW Bug in your driveway." 458
+READ 0x50800 103
+DUMP_MEMORY
+FREE 0x3a400
+MALLOC 221
+WRITE 0x18240 "You will be Told about it Tomorrow.  Go Home and Prepare Thyself." 62
+READ 0x20660 9
+WRITE 0x18240 "You could live a better life, if you had a better mind and a better body." 70
+WRITE 0x18240 "Harp not on that string.-- William Shakespeare, "Henry VI"" 55
+FREE 0x3c06f
+DUMP_MEMORY
+WRITE 0x44222 "When I was younger, I could remember anything, whether it had happenedor not; but my faculties are decaying now and soon I shall be so Icannot remember any but the things that never happened.  It is sad togo to pieces like this but we all have to do it.-- Mark Twain" 263
+WRITE 0x18240 "Consider well the proportions of things.  It is better to be a young June-bugthan an old bird of paradise.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 148
+DUMP_MEMORY
+WRITE 0x18040 "Try to have as good a life as you can under the circumstances." 59
+READ 0x200e0 29
+FREE 0x28140
+DUMP_MEMORY
+READ 0x10229 17
+DUMP_MEMORY
+MALLOC 430
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x18240 "Q:What is the difference between Texas and yogurt?A:Yogurt has culture." 68
+READ 0x10174 2
+READ 0x50800 326
+WRITE 0x50800 "You're not my type.  For that matter, you're not even my species!!!" 898
+FREE 0x42200
+MALLOC 39
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x4952a
+DUMP_MEMORY
+WRITE 0x18240 "You will be surrounded by luxury." 30
+FREE 0x3a600
+FREE 0x43e90
+DUMP_MEMORY
+WRITE 0x50800 "Q:What do Winnie the Pooh and John the Baptist have in common?A:The same middle name." 29
+WRITE 0x18240 "I have never let my schooling interfere with my education.-- Mark Twain" 68
+WRITE 0x10230 "You two ought to be more careful--your love could drag on for years and years." 75
+FREE 0x28740
+FREE 0x39877
+DUMP_MEMORY
+FREE 0x408b6
+READ 0x50800 78
+DUMP_MEMORY
+MALLOC 12
+READ 0x40400 8
+MALLOC 18
+DUMP_MEMORY
+MALLOC 198
+WRITE 0x50800 "It is by the fortune of God that, in this country, we have three benefits:freedom of speech, freedom of thought, and the wisdom never to use either.-- Mark Twain" 214
+DUMP_MEMORY
+READ 0x18240 38
+WRITE 0x50800 "You mentioned your name as if I should recognize it, but beyond theobvious facts that you are a bachelor, a solicitor, a freemason, andan asthmatic, I know nothing whatever about you.-- Sherlock Holmes, "The Norwood Builder"" 431
+DUMP_MEMORY
+MALLOC 184
+MALLOC 266
+READ 0x10113 4
+DUMP_MEMORY
+WRITE 0x10208 "When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 175
+READ 0x40400 254
+MALLOC 5
+MALLOC 657
+READ 0x28600 148
+WRITE 0x50800 "Mind!  I don't mean to say that I know, of my own knowledge, what there isparticularly dead about a door-nail.  I might have been inclined, myself,to regard a coffin-nail as the deadest piece of ironmongery in the trade.But the wisdom of our ancestors is in the simile; and my unhallowed handsshall not disturb it, or the Country's done for.  You will therefore permitme to repeat, emphatically, that Marley was as dead as a door-nail.-- Charles Dickens, "A Christmas Carol"" 362
+MALLOC 89
+FREE 0x280de
+WRITE 0x18240 "There is a fly on your nose." 13
+WRITE 0x28096 "She is not refined.  She is not unrefined.  She keeps a parrot.-- Mark Twain" 73
+WRITE 0x50800 "You have Egyptian flu: you're going to be a mummy." 270
+FREE 0x412cb
+WRITE 0x50800 "The very ink with which all history is written is merely fluid prejudice.-- Mark Twain" 767
+FREE 0x4024c
+FREE 0x38500
+DUMP_MEMORY
+DUMP_MEMORY
+WRITE 0x18240 "You will be awarded a medal for disregarding safety in saving someone." 67
+FREE 0x30e00
+FREE 0x20340
+MALLOC 82
+WRITE 0x3973f "You have a strong desire for a home and your family interests come first." 70
+FREE 0x430d9
+READ 0x100be 62
+MALLOC 457
+MALLOC 217
+READ 0x101e6 35
+READ 0x40400 20
+READ 0x100ab 11
+WRITE 0x40400 "Don't hate yourself in the morning -- sleep till noon." 864
+WRITE 0x40400 "Don't tell any big lies today.  Small ones can be just as effective." 354
+DUMP_MEMORY
+READ 0x50800 270
+WRITE 0x50800 "Q:How do you shoot a blue elephant?A:With a blue-elephant gun.Q:How do you shoot a pink elephant?A:Twist its trunk until it turns blue, then shoot it witha blue-elephant gun." 257
+READ 0x183bf 120
+MALLOC 957
+READ 0x40400 10
+WRITE 0x50800 "Don't feed the bats tonight." 366
+DUMP_MEMORY
+FREE 0x3b200
+MALLOC 191
+DUMP_MEMORY
+WRITE 0x50800 "Patch griefs with proverbs.-- William Shakespeare, "Much Ado About Nothing"" 21
+READ 0x10019 12
+READ 0x18370 42
+DUMP_MEMORY
+FREE 0x42452
+DUMP_MEMORY
+READ 0x40400 385
+MALLOC 60
+MALLOC 41
+DUMP_MEMORY
+FREE 0x182c0
+WRITE 0x4b800 "October 12, the Discovery.It was wonderful to find America, but it would have been more wonderful to missit.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 344
+DUMP_MEMORY
+DUMP_MEMORY
+READ 0x40400 304
+MALLOC 36
+FREE 0x18340
+DUMP_MEMORY
+WRITE 0x50800 "A vivid and creative mind characterizes you." 866
+FREE 0x28396
+WRITE 0x32480 "It is a wise father that knows his own child.-- William Shakespeare, "The Merchant of Venice"" 90
+MALLOC 246
+READ 0x101a9 11
+DUMP_MEMORY
+WRITE 0x50800 "A vivid and creative mind characterizes you." 72
+FREE 0x31727
+READ 0x50000 482
+FREE 0x3b600
+READ 0x289ae 72
+MALLOC 29
+FREE 0x3ae00
+MALLOC 198
+READ 0x40400 363
+READ 0x18240 75
+WRITE 0x50800 "Is that really YOU that is reading this?" 981
+FREE 0x3b36c
+MALLOC 196
+FREE 0x38f59
+WRITE 0x50800 "Few things are harder to put up with than the annoyance of a good example.-- "Mark Twain, Pudd'nhead Wilson's Calendar"" 559
+WRITE 0x50800 "Your mode of life will be changed for the better because of good news soon." 720
+FREE 0x20660
+FREE 0x200a0
+READ 0x50800 272
+WRITE 0x40400 "You'll be called to a post requiring ability in handling groups of people." 831
+FREE 0x28440
+WRITE 0x40400 "All things that are, are with more spirit chased than enjoyed.-- Shakespeare, "Merchant of Venice"" 515
+READ 0x40400 297
+READ 0x40400 118
+FREE 0x180a0
+WRITE 0x50800 "You're almost as happy as you think you are." 583
+MALLOC 182
+READ 0x40400 211
+FREE 0x42e00
+DUMP_MEMORY
+READ 0x18240 16
+FREE 0x38700
+MALLOC 137
+MALLOC 452
+FREE 0x30a00
+MALLOC 103
+MALLOC 5
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 237
+READ 0x32380 18
+WRITE 0x39100 "Chicken Little was right." 78
+DUMP_MEMORY
+READ 0x50000 247
+WRITE 0x40400 "Avoid gunfire in the bathroom tonight." 526
+WRITE 0x40400 "You will be advanced socially, without any special effort on your part." 43
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+MALLOC 487
+READ 0x50800 859
+READ 0x100f8 63
+MALLOC 108
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x204a0
+MALLOC 191
+READ 0x1024d 10
+MALLOC 129
+WRITE 0x40400 "There are three infallible ways of pleasing an author, and the three form arising scale of compliment: 1, to tell him you have read one of his books; 2,to tell him you have read all of his books; 3, to ask him to let you read themanuscript of his forthcoming book.  No. 1 admits you to his respect; No. 2admits you to his admiration; No. 3 carries you clear into his heart.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 421
+MALLOC 87
+READ 0x50000 435
+READ 0x40400 188
+FREE 0x20229
+READ 0x18240 71
+DUMP_MEMORY
+WRITE 0x50800 "If more of us valued food and cheer and song above hoarded gold, it wouldbe a merrier world.-- J.R.R. Tolkien" 172
+DUMP_MEMORY
+READ 0x50000 33
+MALLOC 400
+MALLOC 67
+FREE 0x47052
+DUMP_MEMORY
+READ 0x3973f 47
+MALLOC 289
+WRITE 0x50800 "A classic is something that everyone wants to have readand nobody wants to read.-- Mark Twain, "The Disappearance of Literature"" 932
+FREE 0x3c100
+WRITE 0x50800 "The true Southern watermelon is a boon apart, and not to be mentioned withcommoner things.  It is chief of the world's luxuries, king by the grace of Godover all the fruits of the earth.  When one has tasted it, he knows what theangels eat.  It was not a Southern watermelon that Eve took; we know it becauseshe repented.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 984
+READ 0x40400 228
+MALLOC 5
+WRITE 0x40400 "Many pages make a thick book, except for pocket Bibles which are on veryvery thin paper." 216
+WRITE 0x30080 "You don't become a failure until you're satisfied with being one." 57
+MALLOC 188
+MALLOC 69
+WRITE 0x40400 "Q:Why do people who live near Niagara Falls have flat foreheads?A:Because every morning they wake up thinking "What *is* that noise?Oh, right, *of course*!" 596
+WRITE 0x40400 "In the space of one hundred and seventy-six years the Mississippi hasshortened itself two hundred and forty-two miles.  Therefore ... in the OldSilurian Period the Mississippi River was upward of one million three hundredthousand miles long ... seven hundred and forty-two years from now theMississippi will be only a mile and three-quarters long.  ... There issomething fascinating about science.  One gets such wholesome returns ofconjecture out of such a trifling investment of fact.-- Mark Twain" 400
+READ 0x40400 235
+MALLOC 87
+DUMP_MEMORY
+MALLOC 86
+MALLOC 193
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x30800
+WRITE 0x40400 "You will be advanced socially, without any special effort on your part." 502
+WRITE 0x30e80 "You are deeply attached to your friends and acquaintances." 1
+FREE 0x4b1a1
+FREE 0x28900
+FREE 0x30280
+READ 0x40400 378
+DUMP_MEMORY
+MALLOC 58
+WRITE 0x40400 "Writing is turning one's worst moments into money.-- J.P. Donleavy" 331
+MALLOC 195
+READ 0x50800 475
+READ 0x10229 27
+WRITE 0x3ba00 "Long life is in store for you." 109
+MALLOC 68
+MALLOC 27
+FREE 0x312a3
+MALLOC 29
+FREE 0x10240
+MALLOC 49
+FREE 0x40400
+MALLOC 437
+FREE 0x31100
+DUMP_MEMORY
+READ 0x10242 4
+DUMP_MEMORY
+WRITE 0x18240 "FORTUNE PROVIDES QUESTIONS FOR THE GREAT ANSWERS: #19A:To be or not to be.Q:What is the square root of 4b^2?" 105
+DUMP_MEMORY
+MALLOC 123
+FREE 0x18250
+FREE 0x46e00
+DUMP_MEMORY
+MALLOC 5
+MALLOC 364
+MALLOC 129
+MALLOC 319
+WRITE 0x180c0 "When I reflect upon the number of disagreeable people who I know who have goneto a better world, I am moved to lead a different life.-- Mark Twain, "Pudd'nhead Wilson's Calendar"" 175
+WRITE 0x44c00 "Be different: conform." 252
+READ 0x1015d 13
+DUMP_MEMORY
+FREE 0x30db0
+MALLOC 61
+WRITE 0x50800 "Q:What do agnostic, insomniac dyslexics do at night?A:Stay awake and wonder if there's a dog." 93
+MALLOC 53
+DUMP_MEMORY
+FREE 0x484b1
+FREE 0x28892
+READ 0x10280 17
+READ 0x201a0 12
+MALLOC 40
+DUMP_MEMORY
+MALLOC 36
+MALLOC 148
+WRITE 0x50800 "Your aim is high and to the right." 130
+FREE 0x28a55
+FREE 0x410e2
+MALLOC 148
+DUMP_MEMORY
+DUMP_MEMORY
+DUMP_MEMORY
+FREE 0x30b80
+DUMP_MEMORY
+READ 0x10099 8
+MALLOC 226
+READ 0x101e6 33
+READ 0x18240 28
+DUMP_MEMORY
+READ 0x41c00 250
+FREE 0x42889
+FREE 0x32180
+FREE 0x39d00
+DESTROY_HEAP

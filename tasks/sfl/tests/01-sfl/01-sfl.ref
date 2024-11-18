@@ -1,0 +1,32 @@
++++++DUMP+++++
+Total memory: 256 bytes
+Total allocated memory: 23 bytes
+Total free memory: 233 bytes
+Free blocks: 14
+Number of allocated blocks: 2
+Number of malloc calls: 2
+Number of fragmentations: 1
+Number of free calls: 0
+Blocks with 1 bytes - 1 free block(s) : 0x107
+Blocks with 8 bytes - 7 free block(s) : 0x108 0x110 0x118 0x120 0x128 0x130 0x138
+Blocks with 16 bytes - 3 free block(s) : 0x150 0x160 0x170
+Blocks with 32 bytes - 2 free block(s) : 0x180 0x1a0
+Blocks with 64 bytes - 1 free block(s) : 0x1c0
+Allocated blocks : (0x100 - 7) (0x140 - 16)
+-----DUMP-----
++++++DUMP+++++
+Total memory: 256 bytes
+Total allocated memory: 7 bytes
+Total free memory: 249 bytes
+Free blocks: 15
+Number of allocated blocks: 1
+Number of malloc calls: 2
+Number of fragmentations: 1
+Number of free calls: 1
+Blocks with 1 bytes - 1 free block(s) : 0x107
+Blocks with 8 bytes - 7 free block(s) : 0x108 0x110 0x118 0x120 0x128 0x130 0x138
+Blocks with 16 bytes - 4 free block(s) : 0x140 0x150 0x160 0x170
+Blocks with 32 bytes - 2 free block(s) : 0x180 0x1a0
+Blocks with 64 bytes - 1 free block(s) : 0x1c0
+Allocated blocks : (0x100 - 7)
+-----DUMP-----

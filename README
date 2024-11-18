@@ -1,0 +1,77 @@
+**Nume: Iordache Cristina**
+**Grupă: 314CA**
+
+## Segrerated free lists tema 1
+### Descriere:
+
+Acest cod implementeaza un alocator de memorie personalizat în C.
+Alocatorul gestioneaza memoria împartind-o în blocuri și ținand
+evidenta blocurilor alocate și libere. Suporta operatiuni cum ar
+fi initializarea heap-ului, alocarea și eliberarea memoriei,
+citirea si scrierea în blocurile de memorie alocate si dump-ul
+starii memoriei pentru depanare. Strategiile de management al
+memoriei includ tratarea fragmentarii și consolidarea blocurilor
+libere.
+
+Functionalitati:
++ Inițializarea Heap-ului Personalizat: Dimensiunea heap-ului
+configurabila, numarul de liste pentru gestionarea diferitelor
+dimensiuni de blocuri și strategia pentru reconstituirea memoriei.
+
++ Alocare și Dealocare Dinamica a Memoriei: Implementari
+personalizate pentru malloc și free pentru a aloca și elibera
+memoria din heap.
+
++ Operații de Citire și Scriere: Funcții pentru citirea și
+scrierea în blocurile de memorie alocate.
+
++ Dump-ul Starii Memoriei: Utilitar pentru afisarea starii curente
+a memoriei, inclusiv blocurile alocate și libere, utilizarea totala
+a memoriei și numarul operatiilor.
+
+Descrierea functiilor:
++ dll_create(unsigned int data_size): Inițializeaza o lista dublu
+înlantuita pentru gestionarea blocurilor de memorie.
+
++ create_node(unsigned int address, unsigned int dimension): Creează
+un nod care reprezintă un bloc de memorie.
+
++ init_heap_(memory_allocator *allocator, uintptr_t heap_base, unsigned
+int num_lists, unsigned int bytes_per_list, int tip_reconstituire):
+Initializeaza alocatorul de memorie cu o anumită adresă de bază, numărul
+de liste pentru diferite dimensiuni de blocuri, octeți pe listă si strategia
+de reconstituire.
+
++parse_init_heap(char *heap_base_str, char *nr_lists_str,
+char *bytes_per_list_str, char *tip_reconstituire_str,
+memory_allocator **allocator): Parseaza parametrii de initializare
+si configureaza heap-ul.
+
++malloc_memory(memory_allocator *allocator, unsigned int memory,
+unsigned int *nr_fragmentation, unsigned int *nr_malloc): Aloca un
+bloc de memorie de o dimensiune specificata. In aceasta functie au
+mai multe procese precum: verificarea cazului de fragmentare si
+tratarea amanuntita a acestuia, adaugarea de noi elemente si 
+sortarea acestora in vectorul de liste dublu inlantuite cat
+si in lista pentru alocari.
+
++free_memory(memory_allocator *allocator, unsigned int address,
+unsigned int *nr_free): Elibereaza un bloc de memorie alocat anterior.
+
++write_memory(memory_allocator *allocator, unsigned int address,
+char *data, unsigned int nr_bytes, unsigned int *nr_malloc,
+unsigned int *nr_free, unsigned int *nr_fragmentations, int *seg):
+Scrie date la o adresă de memorie specificata.
+
++read(memory_allocator *allocator, unsigned int address,
+unsigned int nr_bytes, unsigned int *nr_malloc,
+unsigned int *nr_free, unsigned int *nr_fragmentations, int *seg):
+Citește date de la o adresa de memorie specificata.
+
++destroy_heap(memory_allocator *allocator):
+Curata și eliberează toată memoria asociată
+cu alocatorul.
+
++dump_memory(memory_allocator *allocator, int *nr_malloc, int *nr_free, int *nr_fragmentations):
+Afiseaza starea curenta a heap-ului, inclusiv detalii despre blocurile de memorie alocate si libere.
+

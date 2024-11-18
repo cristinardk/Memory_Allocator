@@ -1,0 +1,15 @@
+Nu iau segfault
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 16 bytes
+Total free memory: 368 bytes
+Free blocks: 26
+Number of allocated blocks: 2
+Number of malloc calls: 2
+Number of fragmentations: 0
+Number of free calls: 0
+Blocks with 8 bytes - 14 free block(s) : 0xcfa 0xd02 0xd0a 0xd12 0xd1a 0xd22 0xd2a 0xd32 0xd3a 0xd42 0xd4a 0xd52 0xd5a 0xd62
+Blocks with 16 bytes - 8 free block(s) : 0xd6a 0xd7a 0xd8a 0xd9a 0xdaa 0xdba 0xdca 0xdda
+Blocks with 32 bytes - 4 free block(s) : 0xdea 0xe0a 0xe2a 0xe4a
+Allocated blocks : (0xcea - 8) (0xcf2 - 8)
+-----DUMP-----

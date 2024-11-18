@@ -1,0 +1,36 @@
+Invalid free
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 18 bytes
+Total free memory: 366 bytes
+Free blocks: 29
+Number of allocated blocks: 1
+Number of malloc calls: 2
+Number of fragmentations: 2
+Number of free calls: 1
+Blocks with 3 bytes - 1 free block(s) : 0xb055
+Blocks with 5 bytes - 1 free block(s) : 0xb058
+Blocks with 8 bytes - 15 free block(s) : 0xb05d 0xb065 0xb06d 0xb075 0xb07d 0xb085 0xb08d 0xb095 0xb09d 0xb0a5 0xb0ad 0xb0b5 0xb0bd 0xb0c5 0xb0cd
+Blocks with 14 bytes - 1 free block(s) : 0xb167
+Blocks with 16 bytes - 8 free block(s) : 0xb0d5 0xb0e5 0xb0f5 0xb105 0xb115 0xb125 0xb135 0xb145
+Blocks with 32 bytes - 3 free block(s) : 0xb175 0xb195 0xb1b5
+Allocated blocks : (0xb155 - 18)
+-----DUMP-----
++++++DUMP+++++
+Total memory: 384 bytes
+Total allocated memory: 0 bytes
+Total free memory: 384 bytes
+Free blocks: 30
+Number of allocated blocks: 0
+Number of malloc calls: 2
+Number of fragmentations: 2
+Number of free calls: 2
+Blocks with 3 bytes - 1 free block(s) : 0xb055
+Blocks with 5 bytes - 1 free block(s) : 0xb058
+Blocks with 8 bytes - 15 free block(s) : 0xb05d 0xb065 0xb06d 0xb075 0xb07d 0xb085 0xb08d 0xb095 0xb09d 0xb0a5 0xb0ad 0xb0b5 0xb0bd 0xb0c5 0xb0cd
+Blocks with 14 bytes - 1 free block(s) : 0xb167
+Blocks with 16 bytes - 8 free block(s) : 0xb0d5 0xb0e5 0xb0f5 0xb105 0xb115 0xb125 0xb135 0xb145
+Blocks with 18 bytes - 1 free block(s) : 0xb155
+Blocks with 32 bytes - 3 free block(s) : 0xb175 0xb195 0xb1b5
+Allocated blocks :
+-----DUMP-----

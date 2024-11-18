@@ -1,0 +1,8 @@
+INIT_HEAP 0x1 3 128 0
+MALLOC 8
+MALLOC 8
+MALLOC 8
+FREE 0x9
+DUMP_MEMORY
+WRITE 0x1 "Iau segfault ca am svaiter, nu heap" 35
+DESTROY_HEAP

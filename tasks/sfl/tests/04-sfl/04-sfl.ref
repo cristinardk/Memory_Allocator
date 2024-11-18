@@ -1,0 +1,11 @@
++++++DUMP+++++
+Total memory: 32 bytes
+Total allocated memory: 32 bytes
+Total free memory: 0 bytes
+Free blocks: 0
+Number of allocated blocks: 3
+Number of malloc calls: 3
+Number of fragmentations: 0
+Number of free calls: 0
+Allocated blocks : (0xbeef - 8) (0xbef7 - 8) (0xbeff - 16)
+-----DUMP-----
